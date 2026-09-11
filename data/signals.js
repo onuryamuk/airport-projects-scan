@@ -1,19 +1,35 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-09-11T22:09:27+00:00",
+  "generated": "2026-09-11T22:11:49+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
-    "EU-GB-LHR-R3": [],
-    "EU-LV-RIX-TERM": [
+    "AP-SG-SIN-T5": [
       {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
+        "title": "DHL to open healthcare logistics center at Changi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
+        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
+        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-11"
       }
     ],
+    "NA-US-ORD-TAP": [
+      {
+        "title": "World’s busiest airports revealed in latest global rankings",
+        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
+        "source": "ACI World",
+        "first_seen": "2026-09-12"
+      }
+    ],
+    "EU-GB-LHR-R3": [],
     "NA-US-DFW-TF": [
       {
         "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
@@ -23,11 +39,11 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-12"
       }
     ],
-    "ME-JO-AMM-EXP": [
+    "ME-SA-JED-KAIA": [
       {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-11"
       }
@@ -55,6 +71,33 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-12"
       }
     ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-US-IAH-TB": [
+      {
+        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
+        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
+        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
     "EU-DE-FRA-T3": [
       {
         "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
@@ -75,49 +118,6 @@ window.AMI_SIGNALS = {
         "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
         "published": "Fri, 11 Sep 2026 09:36:42 +0000",
         "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "NA-US-ORD-TAP": [
-      {
-        "title": "World’s busiest airports revealed in latest global rankings",
-        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-        "source": "ACI World",
-        "first_seen": "2026-09-12"
-      }
-    ],
-    "NA-US-IAH-TB": [
-      {
-        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
-        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
-        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "ME-SA-JED-KAIA": [
-      {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "AP-SG-SIN-T5": [
-      {
-        "title": "DHL to open healthcare logistics center at Changi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
-        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
-        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-11"
       }
     ]

@@ -1,5 +1,4 @@
 {
-  "generated": "2026-09-11T22:09:27",
   "candidates": [
     {
       "title": "Queen Alia International seeks new concessions for expansion",
@@ -102,16 +101,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "World’s busiest airports revealed in latest global rankings",
-      "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-      "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-      "source": "ACI World",
-      "matched_projects": [
-        "NA-US-ORD-TAP"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "heathrow:press-release Redefine Your Beauty returns exclusively to Heathrow with immersive beauty experiences across terminals  05 August, 2026",
       "link": "https://mediacentre.heathrow.com/pressrelease/detail/26018",
       "published": "",
@@ -121,5 +110,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-09-11T22:11:49"
 }
