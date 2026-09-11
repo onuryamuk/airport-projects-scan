@@ -1,0 +1,158 @@
+window.AMI_REFRESH = {
+    "last_scan":  "2026-09-12T00:06:37+03:00",
+    "scan_mode":  "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
+    "schedule":  "Manual run",
+    "feeds":  [
+                  {
+                      "name":  "Passenger Terminal Today",
+                      "url":  "https://www.passengerterminaltoday.com/feed/",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  10,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "International Airport Review (homepage)",
+                      "url":  "https://www.internationalairportreview.com/",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  32,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Airport Technology",
+                      "url":  "https://www.airport-technology.com/feed/",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  10,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Airport World",
+                      "url":  "https://www.airport-world.com/feed/",
+                      "kind":  "rss",
+                      "status":  "ERROR",
+                      "items":  0,
+                      "error":  "The operation has timed out."
+                  },
+                  {
+                      "name":  "Global Construction Review",
+                      "url":  "https://www.globalconstructionreview.com/feed/",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  24,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Construction Week Online",
+                      "url":  "https://www.constructionweekonline.com/feed",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  60,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Future Travel Experience",
+                      "url":  "https://www.futuretravelexperience.com/feed/",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  10,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "ACI World",
+                      "url":  "https://www.aci.aero/feed/",
+                      "kind":  "rss",
+                      "status":  "200",
+                      "items":  10,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "CPK news (official)",
+                      "url":  "https://www.cpk.pl/en/news",
+                      "kind":  "html",
+                      "status":  "ERROR",
+                      "items":  0,
+                      "error":  "The remote server returned an error: (403) Forbidden."
+                  },
+                  {
+                      "name":  "VINCI Airports newsroom",
+                      "url":  "https://en.newsroom.vinci-airports.com/",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  3,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Heathrow Media Centre",
+                      "url":  "https://mediacentre.heathrow.com/",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  7,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "IFC Pressroom",
+                      "url":  "https://www.ifc.org/en/pressroom",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  3,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "The Nation Thailand - business",
+                      "url":  "https://www.nationthailand.com/business",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  15,
+                      "error":  ""
+                  },
+                  {
+                      "name":  "Indian Infrastructure - aviation",
+                      "url":  "https://indianinfrastructure.com/category/sector/aviation/",
+                      "kind":  "html",
+                      "status":  "200",
+                      "items":  4,
+                      "error":  ""
+                  }
+              ],
+    "candidates_pending":  12,
+    "new_signals_this_run":  5,
+    "new_unmatched_this_run":  0,
+    "projects_with_new_signals":  [
+                                      "NA-US-PIT-TMP",
+                                      "NA-US-DFW-TF",
+                                      "NA-US-ORD-TAP"
+                                  ],
+    "stale_projects":  [
+                           "EU-ES-MAD-DORA3",
+                           "EU-ES-BCN-DORA3",
+                           "ME-SA-AHB-PPP",
+                           "ME-SA-TIF-PPP",
+                           "ME-SA-DMM-MP",
+                           "NA-MA-CMN-NT",
+                           "NA-EG-PROG-11",
+                           "NA-TN-TUN-EXP",
+                           "CA-KG-FRU-TERM",
+                           "CA-GE-TBS-EXP",
+                           "CA-AM-EVN-EXP",
+                           "AP-VN-GBN-NEW",
+                           "AP-PH-NMIA-P1",
+                           "AP-IN-MAA2-PARANDUR",
+                           "AP-CN-PVG-T3",
+                           "AP-CN-XMN-XIANGAN",
+                           "AP-CN-DLC-JINZHOUWAN",
+                           "AP-MY-BUDGET26",
+                           "AU-VIC-MEL-BAGS",
+                           "AU-WA-PER-MP26",
+                           "AU-SA-ADL-FLIGHT",
+                           "NA-US-DFW-TF",
+                           "NA-US-IAH-TB",
+                           "NA-US-AUS-JOURNEY",
+                           "NA-US-TPA-AIRSIDED",
+                           "NA-US-SNSA-IVANPAH",
+                           "NA-US-PIT-TMP",
+                           "NA-CA-YUL-EXP"
+                       ],
+    "note":  "Scan time is when sources were checked. A project\u0027s latest substantive update is the date of its most recent material development and changes only when an analyst records one."
+};
