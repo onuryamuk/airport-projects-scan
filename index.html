@@ -1,0 +1,231 @@
+<title>Airport Projects Radar</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true">APR</div>
+    <div>
+      <h1>Airport Projects Radar</h1>
+      <p class="tagline">Airport development opportunities across Europe, Middle East, North Africa, Central Asia, Asia Pacific, Australia and North America. Independent research tool for business development use; not an official Surbana Jurong publication.</p>
+    </div>
+  </div>
+  <div class="refresh-area">
+    <div class="refresh-chip" id="refreshChip" title="When sources were last scanned. Individual project updates are dated separately.">
+      <span class="dot"></span><span id="refreshText">Loading refresh status</span>
+    </div>
+    <button class="btn" id="refreshBtn" type="button" title="Run the feed scan now and attach any new coverage to the matching projects">Refresh scan</button>
+  </div>
+</header>
+
+<div class="modal-backdrop" id="refreshModalBackdrop" hidden></div>
+<div class="modal" id="refreshModal" role="dialog" aria-labelledby="refreshTitle" hidden>
+  <div class="modal-head"><h2 id="refreshTitle">Refresh scan</h2><button class="icon-btn" id="closeRefresh" type="button" aria-label="Close">&#x2715;</button></div>
+  <div class="modal-body" id="refreshBody"></div>
+</div>
+
+<section class="kpis" aria-label="Summary indicators">
+  <div class="kpi"><div class="kpi-label">Active projects</div><div class="kpi-value" id="kpiActive">0</div><div class="kpi-note" id="kpiActiveNote">in current filter</div></div>
+  <div class="kpi"><div class="kpi-label">Newly identified</div><div class="kpi-value" id="kpiNew">0</div><div class="kpi-note">first identified in last 30 days</div></div>
+  <div class="kpi"><div class="kpi-label">Confirmed procurement</div><div class="kpi-value" id="kpiOpen">0</div><div class="kpi-note">open tenders, PPP processes or live award stages</div></div>
+  <div class="kpi"><div class="kpi-label">Milestones in 90 days</div><div class="kpi-value" id="kpiDeadlines">0</div><div class="kpi-note" id="kpiDeadNote">projects with a dated milestone due</div></div>
+  <div class="kpi"><div class="kpi-label">High priority</div><div class="kpi-value" id="kpiHigh">0</div><div class="kpi-note">score 15 or more of 20</div></div>
+  <div class="kpi kpi-muted"><div class="kpi-label">Context records</div><div class="kpi-value" id="kpiContext">0</div><div class="kpi-note">completed, cancelled or suspended; excluded from active totals</div></div>
+</section>
+
+<div class="workspace">
+  <aside class="filters" aria-label="Filters">
+    <div class="filters-head">
+      <h2>Filters</h2>
+      <button class="link-btn" id="clearFilters" type="button">Clear</button>
+    </div>
+    <label class="field"><span>Search project, airport, country</span><input type="search" id="fSearch" placeholder="e.g. Tashkent, DWC, terminal"></label>
+    <fieldset class="field"><legend>Region</legend><div class="checks" id="fRegion"></div></fieldset>
+    <label class="field"><span>Country</span><select id="fCountry"><option value="">All countries</option></select></label>
+    <label class="field"><span>Airport</span><select id="fAirport"><option value="">All airports</option></select></label>
+    <fieldset class="field"><legend>Project type</legend><div class="checks" id="fType"></div></fieldset>
+    <label class="field"><span>Stage</span><select id="fStage"><option value="">All stages</option></select></label>
+    <label class="field"><span>Procurement</span><select id="fProc">
+      <option value="">Any status</option>
+      <option value="confirmed">Confirmed procurement activity</option>
+      <option value="potential">Potential future opportunity</option>
+      <option value="existing">Existing SJ engagement or reference</option>
+      <option value="track">Track only</option>
+    </select></label>
+    <label class="field"><span>Priority</span><select id="fPriority">
+      <option value="">Any priority</option>
+      <option value="High">High (15-20)</option>
+      <option value="Medium">Medium (10-14)</option>
+      <option value="Low">Low (below 10)</option>
+      <option value="Context">Context (not scored)</option>
+    </select></label>
+    <label class="field"><span>Updated since</span><input type="date" id="fSince"></label>
+    <label class="check-inline"><input type="checkbox" id="fFlagged"> Only flagged records (stale, conflicting, low evidence)</label>
+    <label class="check-inline"><input type="checkbox" id="fContext" checked> Include context records</label>
+    <div class="filter-summary" id="filterSummary"></div>
+  </aside>
+
+  <main class="content">
+    <nav class="tabs" role="tablist">
+      <button class="tab is-active" data-tab="projects" role="tab">Projects</button>
+      <button class="tab" data-tab="map" role="tab">Map</button>
+      <button class="tab" data-tab="calendar" role="tab">Calendar</button>
+      <button class="tab" data-tab="feed" role="tab">New and changed</button>
+      <button class="tab" data-tab="sources" role="tab">Sources and coverage</button>
+      <button class="tab" data-tab="method" role="tab">Method</button>
+    </nav>
+
+    <section class="panel" id="tab-projects" role="tabpanel">
+      <div class="panel-tools">
+        <div class="result-count" id="resultCount"></div>
+        <div class="tool-group">
+          <label class="sr-only" for="sortBy">Sort by</label>
+          <select id="sortBy">
+            <option value="score-desc">Priority score, high to low</option>
+            <option value="update-desc">Latest update, newest first</option>
+            <option value="milestone-asc">Next milestone, soonest first</option>
+            <option value="value-desc">Reported value, largest first</option>
+            <option value="name-asc">Project name, A to Z</option>
+            <option value="country-asc">Country, A to Z</option>
+          </select>
+          <button class="btn" id="exportCsv" type="button">Export CSV</button>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table class="grid" id="projectTable">
+          <thead><tr>
+            <th data-sort="score">Score</th>
+            <th data-sort="name">Project</th>
+            <th data-sort="country">Country / region</th>
+            <th data-sort="stage">Stage</th>
+            <th>Procurement</th>
+            <th data-sort="value">Reported value</th>
+            <th data-sort="update">Latest update</th>
+            <th data-sort="milestone">Next milestone</th>
+          </tr></thead>
+          <tbody id="projectRows"></tbody>
+        </table>
+      </div>
+      <div class="csv-fallback" id="csvFallback" hidden>
+        <p>If the download did not start (some viewers block downloads), copy the CSV text below.</p>
+        <div class="tool-group"><button class="btn" id="copyCsv" type="button">Copy to clipboard</button><button class="link-btn" id="closeCsv" type="button">Close</button></div>
+        <textarea id="csvText" rows="8" readonly></textarea>
+      </div>
+    </section>
+
+    <section class="panel" id="tab-map" role="tabpanel" hidden>
+      <div class="panel-tools">
+        <div class="map-zoom" id="mapZoom">
+          <button class="chip-btn is-active" data-region="World" type="button">World</button>
+          <button class="chip-btn" data-region="Europe" type="button">Europe</button>
+          <button class="chip-btn" data-region="Middle East" type="button">Middle East</button>
+          <button class="chip-btn" data-region="North Africa" type="button">North Africa</button>
+          <button class="chip-btn" data-region="Central Asia" type="button">Central Asia</button>
+          <button class="chip-btn" data-region="Asia Pacific" type="button">Asia Pacific</button>
+          <button class="chip-btn" data-region="Australia" type="button">Australia</button>
+          <button class="chip-btn" data-region="North America" type="button">North America</button>
+        </div>
+        <div class="legend">
+          <span><i class="sw sw-high"></i>High</span><span><i class="sw sw-med"></i>Medium</span><span><i class="sw sw-low"></i>Low</span><span><i class="sw sw-ctx"></i>Context</span>
+          <span class="legend-note">Marker size follows reported value band</span>
+        </div>
+      </div>
+      <div class="map-frame">
+        <svg id="worldMap" viewBox="0 0 1000 500" role="img" aria-label="Map of tracked airport projects"></svg>
+        <div class="map-tip" id="mapTip" hidden></div>
+      </div>
+      <p class="fine">Positions are airport coordinates (approximate for greenfield sites). Basemap: Natural Earth 1:110m, equirectangular projection. Filters apply to the map.</p>
+    </section>
+
+    <section class="panel" id="tab-calendar" role="tabpanel" hidden>
+      <div class="panel-tools"><div class="result-count" id="calCount"></div>
+        <div class="legend"><span><i class="k k-proc"></i>Procurement</span><span><i class="k k-dec"></i>Decision / approval</span><span><i class="k k-con"></i>Construction</span><span><i class="k k-open"></i>Opening</span></div></div>
+      <div id="calendarList" class="calendar"></div>
+      <p class="fine">Dates marked "approx." are quarter, half-year or year targets taken from sources; the calendar places them on the first day of that window. Items marked "judgment" are the analyst's expectation, not a published date.</p>
+    </section>
+
+    <section class="panel" id="tab-feed" role="tabpanel" hidden>
+      <div class="panel-tools"><div class="result-count" id="feedCount"></div>
+        <label class="field field-inline"><span>Show developments since</span><input type="date" id="feedSince" value="2026-03-01"></label></div>
+      <div id="feedList" class="feed"></div>
+      <h2 class="h-section">Source signals awaiting review</h2>
+      <p class="fine">Items found by the feed scan that mention a tracked airport. They are attached to the record as unreviewed evidence; verified fields change only after an analyst confirms a material development.</p>
+      <div id="signalList" class="feed"></div>
+      <h2 class="h-section">Possible new projects (unmatched)</h2>
+      <p class="fine">Scan items about airport development that did not match any tracked record. Check scope and region before creating a record.</p>
+      <div id="unmatchedList" class="feed"></div>
+    </section>
+
+    <section class="panel" id="tab-sources" role="tabpanel" hidden>
+      <h2 class="h-section">Refresh status</h2>
+      <div class="status-grid" id="refreshStatus"></div>
+      <div class="table-wrap" id="feedStatusWrap"></div>
+      <h2 class="h-section">Source register</h2>
+      <p class="fine">Every publisher used in this build, with the access result observed during the scan. "used_for" counts project records citing the publisher.</p>
+      <div class="table-wrap"><table class="grid compact" id="sourceTable"><thead><tr><th>Source</th><th>Type</th><th>Feed</th><th>Page access</th><th>Coverage</th><th>Records</th></tr></thead><tbody></tbody></table></div>
+      <h2 class="h-section">Coverage gaps and limitations</h2>
+      <ul class="gaps" id="gapList"></ul>
+    </section>
+
+    <section class="panel" id="tab-method" role="tabpanel" hidden>
+      <div class="prose">
+        <h2 class="h-section">How records are built</h2>
+        <p>Each record is created from at least one source that was opened during the scan. Fields marked <span class="tag tag-fact">Sourced</span> in the detail panel repeat what the source says; fields marked <span class="tag tag-judge">Analyst judgment</span> are the research team's assessment and can be wrong. Missing information is shown as "Not publicly disclosed" rather than estimated. A republished article is not treated as a new development: the history timeline only gains an entry when a stage, award, value, party or date changes.</p>
+
+        <h2 class="h-section">Priority score (0 to 20)</h2>
+        <p>Five criteria, each scored 0 to 4. High priority is 15 or more, Medium 10 to 14, Low below 10. Completed, cancelled and suspended projects are not scored and are shown as Context.</p>
+        <table class="grid compact method-table">
+          <thead><tr><th>Criterion</th><th>4</th><th>2</th><th>0</th></tr></thead>
+          <tbody>
+            <tr><td><b>Service fit</b><br>Match between scope and verified SJ Group capabilities (master planning, terminal architecture and engineering, airfield civils via SMEC, structures via Robert Bird Group, sustainability via Atelier Ten, project and programme management).</td><td>Multi-discipline terminal plus airfield scope in the design or planning phase</td><td>Single discipline or construction-phase roles only</td><td>No relevant scope</td></tr>
+            <tr><td><b>Procurement timing</b><br>How soon a consultancy role can realistically be bid.</td><td>Consultancy or PPP process open now or within six months</td><td>Consultancy appointments plausible in 6 to 18 months, or supervision-type roles during construction</td><td>No procurement route or completed</td></tr>
+            <tr><td><b>Accessibility</b><br>Openness of the market and buyer to an international consultancy, existing SJ presence, sanctions and security risk.</td><td>Open EU/IFI procurement or existing SJ client; SJ or SMEC presence in country</td><td>Open in principle but local partner or registration needed</td><td>Closed delivery model, sanctions or high security risk</td></tr>
+            <tr><td><b>Scale</b><br>Reported total programme value.</td><td>Above USD 5bn</td><td>USD 300m to 1bn</td><td>Not scored (context)</td></tr>
+            <tr><td><b>Evidence quality</b><br>Quality and recency of the sources behind the record.</td><td>Official source opened and dated within 12 months</td><td>Industry press excerpt only</td><td>Single undated or unverifiable source</td></tr>
+          </tbody>
+        </table>
+        <p>Scale bands: 4 above USD 5bn; 3 for USD 1bn to 5bn; 2 for USD 300m to 1bn; 1 below USD 300m or undisclosed. Evidence: 4 official fetched; 3 industry press fetched or corroborated; 2 search excerpt only; 1 single weak source.</p>
+
+        <h2 class="h-section">Opportunity types</h2>
+        <ul>
+          <li><b>Confirmed procurement activity</b>: a tender, EOI, PPP qualification or award stage is documented in a source. This is not the same as an open consultancy tender; the detail panel says which roles are actually procurable.</li>
+          <li><b>Potential future opportunity</b>: inferred from scope and stage; no procurement notice has been seen.</li>
+          <li><b>Existing engagement or reference</b>: SJ Group already holds a role; tracked for account management.</li>
+          <li><b>Track only</b>: closed delivery, completed, cancelled, suspended, or high-risk. Retained for context and excluded from active totals.</li>
+        </ul>
+
+        <h2 class="h-section">Region assignment</h2>
+        <p>Each country belongs to exactly one region. Türkiye is placed in Europe. Georgia, Armenia and Azerbaijan are grouped with Central Asia. Egypt, Libya, Tunisia, Algeria and Morocco form North Africa. Australia is its own region; New Zealand and the Pacific sit in Asia Pacific. North America covers the United States, Canada and Mexico (added 12 Sept 2026 at the BD team's request; Central America and the Caribbean are not yet covered). Change the mapping in the data files if the BD team uses a different split; totals will follow.</p>
+
+        <h2 class="h-section">Dates and freshness</h2>
+        <p><b>Scan time</b> is when the sources were last checked (shown in the header). <b>Latest update</b> on a record is the date of its most recent material development according to the sources, which is usually earlier. Records whose latest update is older than 180 days are flagged stale automatically. Conflicting figures between sources are kept and flagged rather than resolved silently.</p>
+
+        <h2 class="h-section">SJ Group capability basis</h2>
+        <p>Capabilities were checked against SJ Group's own site (aviation listed under Building and Cities; project management consultancy at King Abdulaziz International Airport, Jeddah), Passenger Terminal Today's April 2018 report of Surbana Jurong Consultants' appointment as Master Building Consultant and Master Civil Consultant for Changi Terminal 5, and SMEC's statement on detailed design consultancy for Noida International Airport with Robert Bird Group and SJ Aviation. Service suggestions in each record are the analyst's mapping of scope to these capabilities, not confirmed SJ intent.</p>
+      </div>
+    </section>
+  </main>
+</div>
+
+<div class="drawer-backdrop" id="drawerBackdrop" hidden></div>
+<aside class="drawer" id="drawer" aria-label="Project detail" hidden>
+  <div class="drawer-head">
+    <div>
+      <div class="drawer-kicker" id="dKicker"></div>
+      <h2 id="dTitle"></h2>
+      <div class="badges" id="dBadges"></div>
+    </div>
+    <button class="icon-btn" id="closeDrawer" type="button" aria-label="Close">&#x2715;</button>
+  </div>
+  <div class="drawer-body" id="dBody"></div>
+</aside>
+
+<script>
+// Load data and app scripts with an hourly version stamp so hosted copies (GitHub Pages caches files
+// for ten minutes) always pick up the latest scan results after a reload.
+(function () {
+  var v = new Date().toISOString().slice(0, 13).replace(/\D/g, '');
+  ['data/world.js', 'data/projects.js', 'data/sources.js', 'data/refresh_status.js', 'data/signals.js', 'data/config.js', 'assets/app.js']
+    .forEach(function (s) { document.write('<script src="' + s + '?v=' + v + '"><\/script>'); });
+})();
+</script>
