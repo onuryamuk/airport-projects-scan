@@ -1,0 +1,19 @@
+{
+ "note": "Feeds scanned by Refresh-Feeds.ps1. kind = rss (parse items) or html (harvest headline links). Add official newsroom pages or procurement portals here as needed; sites that block automated access will show ERROR/403 in the dashboard's refresh panel.",
+ "feeds": [
+  {"name":"Passenger Terminal Today","url":"https://www.passengerterminaltoday.com/feed/","kind":"rss"},
+  {"name":"International Airport Review (homepage)","url":"https://www.internationalairportreview.com/","kind":"html"},
+  {"name":"Airport Technology","url":"https://www.airport-technology.com/feed/","kind":"rss"},
+  {"name":"Airport World","url":"https://www.airport-world.com/feed/","kind":"rss"},
+  {"name":"Global Construction Review","url":"https://www.globalconstructionreview.com/feed/","kind":"rss"},
+  {"name":"Construction Week Online","url":"https://www.constructionweekonline.com/feed","kind":"rss"},
+  {"name":"Future Travel Experience","url":"https://www.futuretravelexperience.com/feed/","kind":"rss"},
+  {"name":"ACI World","url":"https://www.aci.aero/feed/","kind":"rss"},
+  {"name":"CPK news (official)","url":"https://www.cpk.pl/en/news","kind":"html"},
+  {"name":"VINCI Airports newsroom","url":"https://en.newsroom.vinci-airports.com/","kind":"html"},
+  {"name":"Heathrow Media Centre","url":"https://mediacentre.heathrow.com/","kind":"html"},
+  {"name":"IFC Pressroom","url":"https://www.ifc.org/en/pressroom","kind":"html"},
+  {"name":"The Nation Thailand - business","url":"https://www.nationthailand.com/business","kind":"html"},
+  {"name":"Indian Infrastructure - aviation","url":"https://indianinfrastructure.com/category/sector/aviation/","kind":"html"}
+ ]
+}

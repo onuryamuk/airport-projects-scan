@@ -1,0 +1,46 @@
+name: Daily feed scan and publish
+
+# Runs the feed scan on GitHub's servers every day (and on demand), commits the refreshed
+# data files, and lets GitHub Pages serve the updated dashboard. Verified project fields are
+# never changed by this job; it only attaches unreviewed source signals and refresh status.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"        # 06:00 UTC daily (14:00 Singapore)
+  workflow_dispatch:           # "Run workflow" button on the Actions tab = manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Rebuild data bundle from editable records
+        shell: pwsh
+        run: ./refresh/Build-Data.ps1 -Root "$env:GITHUB_WORKSPACE"
+
+      - name: Run feed scan
+        shell: pwsh
+        env:
+          AMI_SCHEDULED: "1"
+        run: ./refresh/Refresh-Feeds.ps1 -Root "$env:GITHUB_WORKSPACE"
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "feed-scan-bot"
+          git config user.email "feed-scan-bot@users.noreply.github.com"
+          git add data/projects.json data/projects.js data/sources.js data/refresh_status.json data/refresh_status.js data/signals.json data/signals.js data/candidates.json data/scan_log.tsv
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Feed scan $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
