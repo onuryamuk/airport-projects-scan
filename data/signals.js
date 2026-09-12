@@ -1,5 +1,5 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-09-11T22:11:49+00:00",
+  "generated": "2026-09-12T08:53:10+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
@@ -20,25 +20,6 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-11"
       }
     ],
-    "NA-US-ORD-TAP": [
-      {
-        "title": "World’s busiest airports revealed in latest global rankings",
-        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-        "source": "ACI World",
-        "first_seen": "2026-09-12"
-      }
-    ],
-    "EU-GB-LHR-R3": [],
-    "NA-US-DFW-TF": [
-      {
-        "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
-        "link": "https://www.futuretravelexperience.com/2026/09/iag-dfw-all-nippon-airways-muc-turkish-airlines-and-japan-airport-terminal-among-winners-in-fte-global-pioneer-awards-2026/",
-        "published": "Wed, 09 Sep 2026 03:56:40 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-12"
-      }
-    ],
     "ME-SA-JED-KAIA": [
       {
         "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
@@ -46,6 +27,43 @@ window.AMI_SIGNALS = {
         "published": "Tue, 08 Sep 2026 17:03:21 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-US-IAH-TB": [
+      {
+        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
+        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
+        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "EU-GB-LHR-R3": [],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-US-DFW-TF": [
+      {
+        "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
+        "link": "https://www.futuretravelexperience.com/2026/09/iag-dfw-all-nippon-airways-muc-turkish-airlines-and-japan-airport-terminal-among-winners-in-fte-global-pioneer-awards-2026/",
+        "published": "Wed, 09 Sep 2026 03:56:40 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-12"
       }
     ],
     "NA-US-PIT-TMP": [
@@ -71,33 +89,6 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-12"
       }
     ],
-    "EU-LV-RIX-TERM": [
-      {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "NA-US-IAH-TB": [
-      {
-        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
-        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
-        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
     "EU-DE-FRA-T3": [
       {
         "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
@@ -119,6 +110,15 @@ window.AMI_SIGNALS = {
         "published": "Fri, 11 Sep 2026 09:36:42 +0000",
         "source": "Airport World",
         "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-US-ORD-TAP": [
+      {
+        "title": "World’s busiest airports revealed in latest global rankings",
+        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
+        "source": "ACI World",
+        "first_seen": "2026-09-12"
       }
     ]
   },
