@@ -1,9 +1,50 @@
 {
-  "generated": "2026-09-12T08:53:10+00:00",
+  "generated": "2026-09-12T09:54:53+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-US-PIT-TMP": [
+      {
+        "title": "Inside Pittsburgh International Airport’s transformation: CEO Christina Cassotis on building resilience for the future",
+        "link": "https://www.internationalairportreview.com/inside-pittsburgh-international-airports-transformation-ceo-christina-cassotis-on-building-resilience-for-the-future/2136386.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-12"
+      },
+      {
+        "title": "Redefining what it means to be an airport: Pittsburgh Airport CEO, Christina Cassotis",
+        "link": "https://www.internationalairportreview.com/redefining-what-it-means-to-be-an-airport-pittsburgh-airport-ceo-christina-cassotis/2136377.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-12"
+      },
+      {
+        "title": "Pittsburgh International Airport introduces first-ever video gaming lounge to enhance CX",
+        "link": "https://www.futuretravelexperience.com/2026/08/pittsburgh-international-airport-introduces-first-ever-video-gaming-lounge-to-enhance-cx/",
+        "published": "Sun, 30 Aug 2026 11:21:35 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-12"
+      }
+    ],
+    "NA-US-DFW-TF": [
+      {
+        "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
+        "link": "https://www.futuretravelexperience.com/2026/09/iag-dfw-all-nippon-airways-muc-turkish-airlines-and-japan-airport-terminal-among-winners-in-fte-global-pioneer-awards-2026/",
+        "published": "Wed, 09 Sep 2026 03:56:40 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-12"
+      }
+    ],
     "AP-SG-SIN-T5": [
       {
         "title": "DHL to open healthcare logistics center at Changi Airport",
@@ -38,16 +79,6 @@
         "first_seen": "2026-09-11"
       }
     ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-GB-LHR-R3": [],
     "EU-LV-RIX-TERM": [
       {
         "title": "Refuelling options increase at Lithuanian gateways",
@@ -57,38 +88,7 @@
         "first_seen": "2026-09-11"
       }
     ],
-    "NA-US-DFW-TF": [
-      {
-        "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
-        "link": "https://www.futuretravelexperience.com/2026/09/iag-dfw-all-nippon-airways-muc-turkish-airlines-and-japan-airport-terminal-among-winners-in-fte-global-pioneer-awards-2026/",
-        "published": "Wed, 09 Sep 2026 03:56:40 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-12"
-      }
-    ],
-    "NA-US-PIT-TMP": [
-      {
-        "title": "Inside Pittsburgh International Airport’s transformation: CEO Christina Cassotis on building resilience for the future",
-        "link": "https://www.internationalairportreview.com/inside-pittsburgh-international-airports-transformation-ceo-christina-cassotis-on-building-resilience-for-the-future/2136386.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-12"
-      },
-      {
-        "title": "Redefining what it means to be an airport: Pittsburgh Airport CEO, Christina Cassotis",
-        "link": "https://www.internationalairportreview.com/redefining-what-it-means-to-be-an-airport-pittsburgh-airport-ceo-christina-cassotis/2136377.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-12"
-      },
-      {
-        "title": "Pittsburgh International Airport introduces first-ever video gaming lounge to enhance CX",
-        "link": "https://www.futuretravelexperience.com/2026/08/pittsburgh-international-airport-introduces-first-ever-video-gaming-lounge-to-enhance-cx/",
-        "published": "Sun, 30 Aug 2026 11:21:35 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-12"
-      }
-    ],
+    "EU-GB-LHR-R3": [],
     "EU-DE-FRA-T3": [
       {
         "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",

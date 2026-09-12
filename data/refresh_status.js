@@ -1,7 +1,7 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-09-12T08:53:10+00:00",
+  "last_scan": "2026-09-12T09:54:53+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
-  "schedule": "On demand (GitHub Actions)",
+  "schedule": "Daily (GitHub Actions)",
   "feeds": [
     {
       "name": "Passenger Terminal Today",
