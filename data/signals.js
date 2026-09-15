@@ -1,36 +1,9 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-09-14T11:27:36+00:00",
+  "generated": "2026-09-15T10:49:41+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
-    "ME-QA-DOH-PHB": [
-      {
-        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
-        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-14"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "ME-SA-JED-KAIA": [
-      {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
     "AP-SG-SIN-T5": [
       {
         "title": "DHL to open healthcare logistics center at Changi Airport",
@@ -47,36 +20,13 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-11"
       }
     ],
-    "NA-US-PIT-TMP": [
+    "EU-GB-LHR-R3": [
       {
-        "title": "Inside Pittsburgh International Airport’s transformation: CEO Christina Cassotis on building resilience for the future",
-        "link": "https://www.internationalairportreview.com/inside-pittsburgh-international-airports-transformation-ceo-christina-cassotis-on-building-resilience-for-the-future/2136386.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-12"
-      },
-      {
-        "title": "Redefining what it means to be an airport: Pittsburgh Airport CEO, Christina Cassotis",
-        "link": "https://www.internationalairportreview.com/redefining-what-it-means-to-be-an-airport-pittsburgh-airport-ceo-christina-cassotis/2136377.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-12"
-      },
-      {
-        "title": "Pittsburgh International Airport introduces first-ever video gaming lounge to enhance CX",
-        "link": "https://www.futuretravelexperience.com/2026/08/pittsburgh-international-airport-introduces-first-ever-video-gaming-lounge-to-enhance-cx/",
-        "published": "Sun, 30 Aug 2026 11:21:35 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-12"
-      }
-    ],
-    "EU-LV-RIX-TERM": [
-      {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
+        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
+        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-14"
       }
     ],
     "EU-DE-FRA-T3": [
@@ -111,13 +61,63 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-11"
       }
     ],
-    "NA-US-ORD-TAP": [
+    "NA-US-PIT-TMP": [
       {
-        "title": "World’s busiest airports revealed in latest global rankings",
-        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-        "source": "ACI World",
+        "title": "Inside Pittsburgh International Airport’s transformation: CEO Christina Cassotis on building resilience for the future",
+        "link": "https://www.internationalairportreview.com/inside-pittsburgh-international-airports-transformation-ceo-christina-cassotis-on-building-resilience-for-the-future/2136386.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-12"
+      },
+      {
+        "title": "Redefining what it means to be an airport: Pittsburgh Airport CEO, Christina Cassotis",
+        "link": "https://www.internationalairportreview.com/redefining-what-it-means-to-be-an-airport-pittsburgh-airport-ceo-christina-cassotis/2136377.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-12"
+      },
+      {
+        "title": "Pittsburgh International Airport introduces first-ever video gaming lounge to enhance CX",
+        "link": "https://www.futuretravelexperience.com/2026/08/pittsburgh-international-airport-introduces-first-ever-video-gaming-lounge-to-enhance-cx/",
+        "published": "Sun, 30 Aug 2026 11:21:35 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-12"
+      }
+    ],
+    "ME-QA-DOH-PHB": [
+      {
+        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
+        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-14"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-SA-JED-KAIA": [
+      {
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
       }
     ],
     "NA-US-DFW-TF": [
@@ -129,13 +129,13 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-12"
       }
     ],
-    "EU-GB-LHR-R3": [
+    "NA-US-ORD-TAP": [
       {
-        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-14"
+        "title": "World’s busiest airports revealed in latest global rankings",
+        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
+        "source": "ACI World",
+        "first_seen": "2026-09-12"
       }
     ]
   },
