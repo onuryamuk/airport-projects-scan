@@ -1,6 +1,26 @@
 {
-  "generated": "2026-09-15T10:49:41",
   "candidates": [
+    {
+      "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
+      "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
+      "published": "Wed, 16 Sep 2026 09:40:27 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "ME-QA-DOH-PHB"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
+      "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
+      "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-JFK-T6",
+        "NA-US-JFK-NTO"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
       "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
@@ -22,42 +42,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
-      "link": "https://www.passengerterminaltoday.com/videos/video-how-frankfurt-airports-terminal-3-blends-art-and-retail-to-reshape-passenger-experience.html",
-      "published": "Wed, 09 Sep 2026 13:48:00 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-      "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "ME-SA-JED-KAIA"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
-      "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "ME-QA-DOH-PHB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -82,6 +72,17 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Air France to move into New York-JFK’s New Terminal One",
+      "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
+      "published": "Tue, 15 Sep 2026 11:51:42 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "NA-US-JFK-T6",
+        "NA-US-JFK-NTO"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
       "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
       "published": "Fri, 11 Sep 2026 10:00:32 +0000",
@@ -92,22 +93,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Passenger numbers rise across Fraport’s global airport network",
-      "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
-      "published": "Fri, 11 Sep 2026 09:36:42 +0000",
-      "source": "Airport World",
+      "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
+      "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
+      "published": "Tue, 15 Sep 2026 14:06:01 +0000",
+      "source": "Future Travel Experience",
       "matched_projects": [
-        "EU-DE-FRA-T3"
+        "ME-QA-DOH-PHB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
-      "link": "https://www.futuretravelexperience.com/2026/09/iag-dfw-all-nippon-airways-muc-turkish-airlines-and-japan-airport-terminal-among-winners-in-fte-global-pioneer-awards-2026/",
-      "published": "Wed, 09 Sep 2026 03:56:40 +0000",
+      "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
+      "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
+      "published": "Tue, 15 Sep 2026 11:44:20 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "NA-US-DFW-TF"
+        "EU-LV-RIX-TERM"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -131,5 +132,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-09-16T10:38:48"
 }
