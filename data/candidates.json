@@ -1,6 +1,16 @@
 {
   "candidates": [
     {
+      "title": "London Gatwick launches largest ever food and beverage tender",
+      "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
+      "published": "Wed, 16 Sep 2026 14:07:20 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-GB-LGW-NR"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
       "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
       "published": "Wed, 16 Sep 2026 09:40:27 +0000",
@@ -28,16 +38,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [
         "EU-GB-LHR-R3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Queen Alia International seeks new concessions for expansion",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-      "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "ME-JO-AMM-EXP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -72,6 +72,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Easy come, easy go at Brisbane Airport",
+      "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
+      "published": "Thu, 17 Sep 2026 09:33:47 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Air France to move into New York-JFK’s New Terminal One",
       "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
       "published": "Tue, 15 Sep 2026 11:51:42 +0000",
@@ -79,16 +89,6 @@
       "matched_projects": [
         "NA-US-JFK-T6",
         "NA-US-JFK-NTO"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
-      "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
-      "published": "Fri, 11 Sep 2026 10:00:32 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "NA-US-IAH-TB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -133,5 +133,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-16T10:38:48"
+  "generated": "2026-09-17T10:47:34"
 }
