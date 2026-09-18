@@ -1,6 +1,16 @@
 {
   "candidates": [
     {
+      "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
+      "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
+      "published": "Thu, 17 Sep 2026 10:47:08 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "London Gatwick launches largest ever food and beverage tender",
       "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
       "published": "Wed, 16 Sep 2026 14:07:20 +0000",
@@ -48,6 +58,26 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
+      "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-GB-LGW-NR"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
+      "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-CA-YUL-EXP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -133,5 +163,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-17T10:47:34"
+  "generated": "2026-09-18T10:23:07"
 }
