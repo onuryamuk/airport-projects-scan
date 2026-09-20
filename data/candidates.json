@@ -1,4 +1,5 @@
 {
+  "generated": "2026-09-20T10:25:01",
   "candidates": [
     {
       "title": "Stewart Wingate named next chair of London Gatwick",
@@ -133,22 +134,54 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
-      "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
-      "published": "Tue, 15 Sep 2026 14:06:01 +0000",
+      "title": "DFW expands premium airport experience with new lounges and enhanced services",
+      "link": "https://www.futuretravelexperience.com/2026/09/dfw-expands-premium-airport-experience-with-new-lounges-and-enhanced-services/",
+      "published": "Sat, 19 Sep 2026 18:43:12 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "ME-QA-DOH-PHB"
+        "NA-US-DFW-TF"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
-      "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
-      "published": "Tue, 15 Sep 2026 11:44:20 +0000",
+      "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
+      "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
+      "published": "Sat, 19 Sep 2026 18:23:30 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "EU-LV-RIX-TERM"
+        "AP-TH-BKK-EAST",
+        "AP-TH-BKK-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
+      "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
+      "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "NA-US-JFK-T6",
+        "NA-US-JFK-NTO"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Brisbane Airport streamlines international departures with new 12-lane passport control",
+      "link": "https://www.futuretravelexperience.com/2026/09/brisbane-airport-streamlines-international-departures-with-new-12-lane-passport-control/",
+      "published": "Sat, 19 Sep 2026 18:07:19 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
+      "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
+      "published": "Sat, 19 Sep 2026 18:03:08 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -172,6 +205,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-09-19T10:06:50"
+  ]
 }

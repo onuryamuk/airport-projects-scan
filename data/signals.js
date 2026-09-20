@@ -1,64 +1,16 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-09-19T10:06:50+00:00",
+  "generated": "2026-09-20T10:25:01+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
-    "EU-GB-LHR-R3": [
+    "AP-TH-BKK-EAST": [
       {
-        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-14"
-      }
-    ],
-    "AU-QLD-BNE-MP26": [
-      {
-        "title": "Easy come, easy go at Brisbane Airport",
-        "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
-        "published": "Thu, 17 Sep 2026 09:33:47 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-17"
-      },
-      {
-        "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
-        "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
-        "published": "Thu, 17 Sep 2026 10:47:08 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-18"
-      }
-    ],
-    "EU-GB-LGW-NR": [
-      {
-        "title": "London Gatwick launches largest ever food and beverage tender",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
-        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-17"
-      },
-      {
-        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
-        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-18"
-      },
-      {
-        "title": "Stewart Wingate named next chair of London Gatwick",
-        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
-        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-19"
-      }
-    ],
-    "NA-CA-YUL-EXP": [
-      {
-        "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
-        "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-18"
+        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
+        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
+        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
       }
     ],
     "ME-QA-DOH-PHB": [
@@ -84,47 +36,20 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-16"
       }
     ],
-    "NA-US-JFK-T6": [
+    "AP-SG-SIN-T5": [
       {
-        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
-        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+        "title": "DHL to open healthcare logistics center at Changi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
+        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-16"
+        "first_seen": "2026-09-11"
       },
       {
-        "title": "Air France to move into New York-JFK’s New Terminal One",
-        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
+        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
+        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-11"
-      }
-    ],
-    "ME-SA-JED-KAIA": [
-      {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "NA-US-ORD-TAP": [
-      {
-        "title": "World’s busiest airports revealed in latest global rankings",
-        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-        "source": "ACI World",
-        "first_seen": "2026-09-12"
       }
     ],
     "NA-US-PIT-TMP": [
@@ -150,6 +75,120 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-12"
       }
     ],
+    "EU-GB-LGW-NR": [
+      {
+        "title": "London Gatwick launches largest ever food and beverage tender",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
+        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-17"
+      },
+      {
+        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
+        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-18"
+      },
+      {
+        "title": "Stewart Wingate named next chair of London Gatwick",
+        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
+        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-19"
+      }
+    ],
+    "NA-US-IAH-TB": [
+      {
+        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
+        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
+        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "EU-GB-LHR-R3": [
+      {
+        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
+        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-14"
+      },
+      {
+        "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
+        "published": "Sat, 19 Sep 2026 18:03:08 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "NA-US-ORD-TAP": [
+      {
+        "title": "World’s busiest airports revealed in latest global rankings",
+        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
+        "source": "ACI World",
+        "first_seen": "2026-09-12"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-CA-YUL-EXP": [
+      {
+        "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
+        "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-18"
+      }
+    ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
+        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
+    "NA-US-JFK-T6": [
+      {
+        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
+        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to move into New York-JFK’s New Terminal One",
+        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
+        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
+        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
     "NA-US-DFW-TF": [
       {
         "title": "IAG, DFW, All Nippon Airways, MUC, Turkish Airlines and Japan Airport Terminal among winners in FTE Global Pioneer Awards 2026",
@@ -164,6 +203,77 @@ window.AMI_SIGNALS = {
         "published": "Fri, 18 Sep 2026 12:53:43 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-19"
+      },
+      {
+        "title": "DFW expands premium airport experience with new lounges and enhanced services",
+        "link": "https://www.futuretravelexperience.com/2026/09/dfw-expands-premium-airport-experience-with-new-lounges-and-enhanced-services/",
+        "published": "Sat, 19 Sep 2026 18:43:12 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "AP-TH-BKK-SOUTH": [
+      {
+        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
+        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
+        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "AU-QLD-BNE-MP26": [
+      {
+        "title": "Easy come, easy go at Brisbane Airport",
+        "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
+        "published": "Thu, 17 Sep 2026 09:33:47 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-17"
+      },
+      {
+        "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
+        "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
+        "published": "Thu, 17 Sep 2026 10:47:08 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-18"
+      },
+      {
+        "title": "Brisbane Airport streamlines international departures with new 12-lane passport control",
+        "link": "https://www.futuretravelexperience.com/2026/09/brisbane-airport-streamlines-international-departures-with-new-12-lane-passport-control/",
+        "published": "Sat, 19 Sep 2026 18:07:19 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "NA-US-JFK-NTO": [
+      {
+        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
+        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to move into New York-JFK’s New Terminal One",
+        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
+        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
+        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "ME-SA-JED-KAIA": [
+      {
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
       }
     ],
     "EU-DE-FRA-T3": [
@@ -185,63 +295,6 @@ window.AMI_SIGNALS = {
         "title": "Passenger numbers rise across Fraport’s global airport network",
         "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
         "published": "Fri, 11 Sep 2026 09:36:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "NA-US-JFK-NTO": [
-      {
-        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
-        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Air France to move into New York-JFK’s New Terminal One",
-        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "AP-SG-SIN-T5": [
-      {
-        "title": "DHL to open healthcare logistics center at Changi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
-        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
-        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-LV-RIX-TERM": [
-      {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
-        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "NA-US-IAH-TB": [
-      {
-        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
-        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
-        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
         "source": "Airport World",
         "first_seen": "2026-09-11"
       }
