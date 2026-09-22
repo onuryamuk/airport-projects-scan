@@ -1,5 +1,4 @@
 {
-  "generated": "2026-09-21T11:41:32",
   "candidates": [
     {
       "title": "Stewart Wingate named next chair of London Gatwick",
@@ -38,27 +37,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [
         "EU-GB-LGW-NR"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
-      "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
-      "published": "Wed, 16 Sep 2026 09:40:27 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "ME-QA-DOH-PHB"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
-      "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
-      "published": "Tue, 15 Sep 2026 13:54:12 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-US-JFK-T6",
-        "NA-US-JFK-NTO"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -103,19 +81,9 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
-      "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "Electric go-kart track next on agenda for Brisbane Airport",
       "link": "https://airport-world.com/electric-go-kart-track-next-on-agenda-for-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=electric-go-kart-track-next-on-agenda-for-brisbane-airport",
-      "published": "Mon, 21 Sep 2026 08:09:34 +0000",
+      "published": "Mon, 21 Sep 2026 08:25:34 +0000",
       "source": "Airport World",
       "matched_projects": [
         "AU-QLD-BNE-MP26"
@@ -129,17 +97,6 @@
       "source": "Airport World",
       "matched_projects": [
         "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Air France to move into New York-JFK’s New Terminal One",
-      "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-      "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "NA-US-JFK-T6",
-        "NA-US-JFK-NTO"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -215,5 +172,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-09-22T10:45:06"
 }
