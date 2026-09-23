@@ -1,6 +1,14 @@
 {
   "candidates": [
     {
+      "title": "Vinci Airports announces £500m Edinburgh Airport expansion plan",
+      "link": "https://www.passengerterminaltoday.com/news/construction-architecture/vinci-airports-announces-500m-edinburgh-airport-expansion-plan.html",
+      "published": "Wed, 23 Sep 2026 09:53:01 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
       "title": "Stewart Wingate named next chair of London Gatwick",
       "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
       "published": "Fri, 18 Sep 2026 13:19:37 +0000",
@@ -17,26 +25,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [
         "NA-US-DFW-TF"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
-      "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
-      "published": "Thu, 17 Sep 2026 10:47:08 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "London Gatwick launches largest ever food and beverage tender",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
-      "published": "Wed, 16 Sep 2026 14:07:20 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-GB-LGW-NR"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -84,16 +72,6 @@
       "title": "Electric go-kart track next on agenda for Brisbane Airport",
       "link": "https://airport-world.com/electric-go-kart-track-next-on-agenda-for-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=electric-go-kart-track-next-on-agenda-for-brisbane-airport",
       "published": "Mon, 21 Sep 2026 08:25:34 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Easy come, easy go at Brisbane Airport",
-      "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
-      "published": "Thu, 17 Sep 2026 09:33:47 +0000",
       "source": "Airport World",
       "matched_projects": [
         "AU-QLD-BNE-MP26"
@@ -171,7 +149,17 @@
         "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
+      "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
+      "published": "",
+      "source": "Indian Infrastructure - aviation",
+      "matched_projects": [
+        "AP-IN-NIA-P1"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-22T10:45:06"
+  "generated": "2026-09-23T10:35:41"
 }
