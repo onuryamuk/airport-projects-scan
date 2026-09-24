@@ -19,16 +19,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "DFW adds more than a dozen new dining and retail concessions",
-      "link": "https://www.passengerterminaltoday.com/news/retail/dfw-adds-more-than-a-dozen-new-dining-and-retail-concessions.html",
-      "published": "Fri, 18 Sep 2026 12:53:43 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-US-DFW-TF"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -131,7 +121,7 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "World’s busiest airports revealed in latest global rankings",
+      "title": "World’s Busiest Airports Revealed in Latest Global Rankings",
       "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
       "published": "Tue, 14 Apr 2026 11:35:28 +0000",
       "source": "ACI World",
@@ -161,5 +151,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-23T10:35:41"
+  "generated": "2026-09-24T10:54:48"
 }
