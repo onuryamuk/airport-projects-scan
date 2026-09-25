@@ -1,5 +1,24 @@
 {
+  "generated": "2026-09-25T10:57:01",
   "candidates": [
+    {
+      "title": "Uber to run exclusive pickup zone at Western Sydney International",
+      "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
+      "published": "Fri, 25 Sep 2026 10:09:35 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Corgan hires Ben Dawson to lead Asia-Pacific aviation expansion",
+      "link": "https://www.passengerterminaltoday.com/news/personnel/corgan-hires-ben-dawson-to-lead-asia-pacific-aviation-expansion.html",
+      "published": "Fri, 25 Sep 2026 09:58:41 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
     {
       "title": "Vinci Airports announces £500m Edinburgh Airport expansion plan",
       "link": "https://www.passengerterminaltoday.com/news/construction-architecture/vinci-airports-announces-500m-edinburgh-airport-expansion-plan.html",
@@ -7,16 +26,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [],
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
-      "title": "Stewart Wingate named next chair of London Gatwick",
-      "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
-      "published": "Fri, 18 Sep 2026 13:19:37 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-GB-LGW-NR"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -29,12 +38,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Toronto Pearson passenger satisfaction climbs as public backs airport investment",
-      "link": "https://www.internationalairportreview.com/toronto-pearson-passenger-satisfaction-climbs-as-public-backs-airport-investment/2136517.article",
+      "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
+      "link": "https://www.internationalairportreview.com/5-minutes-with-john-ackerman-ceo-of-los-angeles-international-airport/2136578.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "NA-CA-YYZ-LIFT"
+        "NA-US-LAX-LAMP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -45,6 +54,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "NA-CA-YUL-EXP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
+      "link": "https://www.internationalairportreview.com/5-minutes-with-john-ackerman-ceo-of-los-angeles-international-airport/2136578.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-US-LAX-LAMP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -131,25 +150,14 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "heathrow:press-release Redefine Your Beauty returns exclusively to Heathrow with immersive beauty experiences across terminals  05 August, 2026",
-      "link": "https://mediacentre.heathrow.com/pressrelease/detail/26018",
+      "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
+      "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
       "published": "",
       "source": "Heathrow Media Centre",
       "matched_projects": [
         "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
-      "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
-      "published": "",
-      "source": "Indian Infrastructure - aviation",
-      "matched_projects": [
-        "AP-IN-NIA-P1"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-09-24T10:54:48"
+  ]
 }
