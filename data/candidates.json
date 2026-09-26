@@ -1,5 +1,4 @@
 {
-  "generated": "2026-09-25T10:57:01",
   "candidates": [
     {
       "title": "Uber to run exclusive pickup zone at Western Sydney International",
@@ -78,12 +77,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Electric go-kart track next on agenda for Brisbane Airport",
-      "link": "https://airport-world.com/electric-go-kart-track-next-on-agenda-for-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=electric-go-kart-track-next-on-agenda-for-brisbane-airport",
-      "published": "Mon, 21 Sep 2026 08:25:34 +0000",
+      "title": "Uber gets green light to serve Sydney’s new international airport",
+      "link": "https://airport-world.com/uber-gets-green-light-to-serve-sydneys-new-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=uber-gets-green-light-to-serve-sydneys-new-international-airport",
+      "published": "Sat, 26 Sep 2026 10:22:12 +0000",
       "source": "Airport World",
       "matched_projects": [
-        "AU-QLD-BNE-MP26"
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Capturing pollution from aircraft emissions at Copenhagen Airport",
+      "link": "https://airport-world.com/capturing-pollution-from-aircraft-emissions-at-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-pollution-from-aircraft-emissions-at-copenhagen-airport",
+      "published": "Fri, 25 Sep 2026 15:57:46 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DK-CPH-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -159,5 +168,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-09-26T10:37:38"
 }
