@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T11:10:28",
+  "generated": "2026-09-28T12:36:46",
   "candidates": [
     {
       "title": "Uber to run exclusive pickup zone at Western Sydney International",
@@ -44,6 +44,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "NA-US-LAX-LAMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
+      "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-CH-ZRH-DOCKA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -166,6 +176,18 @@
       "source": "Heathrow Media Centre",
       "matched_projects": [
         "EU-GB-LHR-R3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+      "link": "https://www.nationthailand.com/business/economy/40071616",
+      "published": "",
+      "source": "The Nation Thailand - business",
+      "matched_projects": [
+        "AP-TH-BKK-EAST",
+        "AP-TH-BKK-SOUTH",
+        "AP-TH-DMK-P3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }

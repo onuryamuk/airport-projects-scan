@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-09-27T11:10:28+00:00",
+  "last_scan": "2026-09-28T12:36:46+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -116,10 +116,15 @@
       "error": ""
     }
   ],
-  "candidates_pending": 17,
-  "new_signals_this_run": 0,
+  "candidates_pending": 19,
+  "new_signals_this_run": 4,
   "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [],
+  "projects_with_new_signals": [
+    "EU-CH-ZRH-DOCKA",
+    "AP-TH-BKK-EAST",
+    "AP-TH-BKK-SOUTH",
+    "AP-TH-DMK-P3"
+  ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
