@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-09-28T12:36:46+00:00",
+  "last_scan": "2026-09-29T11:56:30+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -31,9 +31,9 @@ window.AMI_REFRESH = {
       "name": "Airport World",
       "url": "https://www.airport-world.com/feed/",
       "kind": "rss",
-      "status": "200",
-      "items": 10,
-      "error": ""
+      "status": "ERROR",
+      "items": 0,
+      "error": "The SSL connection could not be established, see inner exception."
     },
     {
       "name": "Global Construction Review",
@@ -116,15 +116,10 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 19,
-  "new_signals_this_run": 4,
+  "candidates_pending": 14,
+  "new_signals_this_run": 0,
   "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [
-    "EU-CH-ZRH-DOCKA",
-    "AP-TH-BKK-EAST",
-    "AP-TH-BKK-SOUTH",
-    "AP-TH-DMK-P3"
-  ],
+  "projects_with_new_signals": [],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
@@ -139,6 +134,7 @@ window.AMI_REFRESH = {
     "CA-AM-EVN-EXP",
     "AP-VN-LTA-P1",
     "AP-VN-GBN-NEW",
+    "AP-VN-PQC-EXP",
     "AP-PH-NMIA-P1",
     "AP-IN-MAA2-PARANDUR",
     "AP-CN-PVG-T3",
