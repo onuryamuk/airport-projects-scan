@@ -1,6 +1,27 @@
 {
   "candidates": [
     {
+      "title": "Pittsburgh International Airport releases four-legged robots into terminal",
+      "link": "https://www.passengerterminaltoday.com/news/technology/pittsburgh-international-airport-releases-four-legged-robots-into-terminal.html",
+      "published": "Wed, 30 Sep 2026 10:52:18 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-PIT-TMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
+      "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
+      "published": "Wed, 30 Sep 2026 10:00:03 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AP-TH-BKK-EAST",
+        "AP-TH-BKK-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Uber to run exclusive pickup zone at Western Sydney International",
       "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
       "published": "Fri, 25 Sep 2026 10:09:35 +0000",
@@ -25,16 +46,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
-      "link": "https://www.internationalairportreview.com/5-minutes-with-john-ackerman-ceo-of-los-angeles-international-airport/2136578.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-LAX-LAMP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -141,5 +152,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-29T11:56:30"
+  "generated": "2026-09-30T11:44:34"
 }
