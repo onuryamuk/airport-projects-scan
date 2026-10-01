@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-01T12:13:12",
   "candidates": [
     {
       "title": "Pittsburgh International Airport releases four-legged robots into terminal",
@@ -50,12 +51,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
-      "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+      "title": "DFW Airport opens 90,000 sq ft central receiving and distribution centre for terminal deliveries",
+      "link": "https://www.internationalairportreview.com/dfw-airport-opens-90000-sq-ft-central-receiving-and-distribution-centre-for-terminal-deliveries/2136628.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "EU-CH-ZRH-DOCKA"
+        "NA-US-DFW-TF"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -90,54 +91,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "DFW expands premium airport experience with new lounges and enhanced services",
-      "link": "https://www.futuretravelexperience.com/2026/09/dfw-expands-premium-airport-experience-with-new-lounges-and-enhanced-services/",
-      "published": "Sat, 19 Sep 2026 18:43:12 +0000",
+      "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
+      "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
+      "published": "Thu, 01 Oct 2026 11:34:41 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "NA-US-DFW-TF"
+        "AP-TW-TPE-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
-      "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
-      "published": "Sat, 19 Sep 2026 18:23:30 +0000",
+      "title": "Delhi’s Noida International Airport – the digital commercial experience at the world’s newest capital city airport",
+      "link": "https://www.futuretravelexperience.com/2026/10/delhis-noida-international-airport-the-digital-commercial-experience-at-the-worlds-newest-capital-city-airport/",
+      "published": "Thu, 01 Oct 2026 08:00:21 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "AP-TH-BKK-EAST",
-        "AP-TH-BKK-SOUTH"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
-      "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
-      "published": "Sat, 19 Sep 2026 18:12:27 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "NA-US-JFK-T6",
-        "NA-US-JFK-NTO"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Brisbane Airport streamlines international departures with new 12-lane passport control",
-      "link": "https://www.futuretravelexperience.com/2026/09/brisbane-airport-streamlines-international-departures-with-new-12-lane-passport-control/",
-      "published": "Sat, 19 Sep 2026 18:07:19 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
-      "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
-      "published": "Sat, 19 Sep 2026 18:03:08 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "EU-GB-LHR-R3"
+        "AP-IN-NIA-P1"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -151,6 +120,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-09-30T11:44:34"
+  ]
 }
