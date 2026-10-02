@@ -1,6 +1,25 @@
 {
-  "generated": "2026-10-01T12:13:12",
   "candidates": [
+    {
+      "title": "DFW opens logistics facility to support expanded dining, shopping and lounge options",
+      "link": "https://www.passengerterminaltoday.com/news/food-beverage/dfw-opens-logistics-facility-to-support-expanded-dining-shopping-and-lounge-options.html",
+      "published": "Thu, 01 Oct 2026 15:32:57 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-DFW-TF"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Western Sydney International launches shuttle bus service",
+      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
+      "published": "Thu, 01 Oct 2026 14:11:55 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Pittsburgh International Airport releases four-legged robots into terminal",
       "link": "https://www.passengerterminaltoday.com/news/technology/pittsburgh-international-airport-releases-four-legged-robots-into-terminal.html",
@@ -33,20 +52,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Corgan hires Ben Dawson to lead Asia-Pacific aviation expansion",
-      "link": "https://www.passengerterminaltoday.com/news/personnel/corgan-hires-ben-dawson-to-lead-asia-pacific-aviation-expansion.html",
-      "published": "Fri, 25 Sep 2026 09:58:41 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
+      "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AP-NZ-AKL-DJT"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -101,16 +122,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Delhi’s Noida International Airport – the digital commercial experience at the world’s newest capital city airport",
-      "link": "https://www.futuretravelexperience.com/2026/10/delhis-noida-international-airport-the-digital-commercial-experience-at-the-worlds-newest-capital-city-airport/",
-      "published": "Thu, 01 Oct 2026 08:00:21 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "AP-IN-NIA-P1"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
       "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
       "published": "",
@@ -120,5 +131,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-02T11:42:47"
 }
