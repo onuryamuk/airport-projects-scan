@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-03T10:56:06",
   "candidates": [
     {
       "title": "DFW opens logistics facility to support expanded dining, shopping and lounge options",
@@ -42,16 +43,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Uber to run exclusive pickup zone at Western Sydney International",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
-      "published": "Fri, 25 Sep 2026 10:09:35 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -68,16 +59,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-NZ-AKL-DJT"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "DFW Airport opens 90,000 sq ft central receiving and distribution centre for terminal deliveries",
-      "link": "https://www.internationalairportreview.com/dfw-airport-opens-90000-sq-ft-central-receiving-and-distribution-centre-for-terminal-deliveries/2136628.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-DFW-TF"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -131,6 +112,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-02T11:42:47"
+  ]
 }
