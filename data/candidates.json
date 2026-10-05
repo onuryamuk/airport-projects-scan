@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T11:38:26",
+  "generated": "2026-10-05T13:17:14",
   "candidates": [
     {
       "title": "DFW opens logistics facility to support expanded dining, shopping and lounge options",
@@ -53,12 +53,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
-      "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+      "title": "Dublin Airport opens new Fast Track security facilities in Terminal 1 and Terminal 2",
+      "link": "https://www.internationalairportreview.com/dublin-airport-opens-new-fast-track-security-facilities-in-terminal-1-and-terminal-2/2136650.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "AP-NZ-AKL-DJT"
+        "EU-IE-DUB-INFRA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -93,12 +93,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
-      "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
-      "published": "Thu, 01 Oct 2026 11:34:41 +0000",
+      "title": "Western Sydney International Airport partners with Uber to deliver seamless passenger ground connections",
+      "link": "https://www.futuretravelexperience.com/2026/10/western-sydney-international-airport-partners-with-uber-to-deliver-seamless-passenger-ground-connections/",
+      "published": "Sun, 04 Oct 2026 13:46:40 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "AP-TW-TPE-T3"
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "SAS reveals new Copenhagen Airport lounge focused on premium CX and smarter space management",
+      "link": "https://www.futuretravelexperience.com/2026/10/sas-reveals-new-copenhagen-airport-lounge-focused-on-premium-cx-and-smarter-space-management/",
+      "published": "Sun, 04 Oct 2026 13:29:30 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "EU-DK-CPH-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
