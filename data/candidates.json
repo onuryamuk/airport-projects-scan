@@ -1,5 +1,4 @@
 {
-  "generated": "2026-10-05T13:17:14",
   "candidates": [
     {
       "title": "DFW opens logistics facility to support expanded dining, shopping and lounge options",
@@ -32,23 +31,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
-      "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
-      "published": "Wed, 30 Sep 2026 10:00:03 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AP-TH-BKK-EAST",
-        "AP-TH-BKK-SOUTH"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
+      "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-CZ-PRG-T12"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -122,5 +120,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-06T12:34:25"
 }
