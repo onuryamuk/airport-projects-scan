@@ -1,36 +1,5 @@
 {
-  "generated": "2026-10-07T12:27:31",
   "candidates": [
-    {
-      "title": "DFW opens logistics facility to support expanded dining, shopping and lounge options",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/dfw-opens-logistics-facility-to-support-expanded-dining-shopping-and-lounge-options.html",
-      "published": "Thu, 01 Oct 2026 15:32:57 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-US-DFW-TF"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Western Sydney International launches shuttle bus service",
-      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
-      "published": "Thu, 01 Oct 2026 14:11:55 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Pittsburgh International Airport releases four-legged robots into terminal",
-      "link": "https://www.passengerterminaltoday.com/news/technology/pittsburgh-international-airport-releases-four-legged-robots-into-terminal.html",
-      "published": "Wed, 30 Sep 2026 10:52:18 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-US-PIT-TMP"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
@@ -38,26 +7,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Hudson-led joint venture awarded three duty-free locations as part of Seattle-Tacoma Airport expansion",
-      "link": "https://www.internationalairportreview.com/hudson-led-joint-venture-awarded-three-duty-free-locations-as-part-of-seattle-tacoma-airport-expansion/2136679.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-SEA-SCONC"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
-      "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "EU-CZ-PRG-T12"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -102,6 +51,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Inside Pittsburgh International Airport’s new terminal: One year of lessons on technology, collaboration, operational readiness and more",
+      "link": "https://www.futuretravelexperience.com/2026/10/inside-pittsburgh-international-airports-new-terminal-one-year-of-lessons-on-technology-collaboration-operational-readiness-and-more/",
+      "published": "Wed, 07 Oct 2026 15:46:49 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "NA-US-PIT-TMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Western Sydney International Airport partners with Uber to deliver seamless passenger ground connections",
       "link": "https://www.futuretravelexperience.com/2026/10/western-sydney-international-airport-partners-with-uber-to-deliver-seamless-passenger-ground-connections/",
       "published": "Sun, 04 Oct 2026 13:46:40 +0000",
@@ -131,5 +90,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-08T12:37:03"
 }
