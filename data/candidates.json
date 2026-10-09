@@ -11,6 +11,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Picture of the week: Pittsburgh International Airport to trial four-legged Skild AI robots in Airside Terminal under xBridge programme",
+      "link": "https://www.internationalairportreview.com/picture-of-the-week-pittsburgh-international-airport-to-trial-four-legged-skild-ai-robots-in-airside-terminal-under-xbridge-programme/2136709.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-US-PIT-TMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
       "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
       "published": "",
@@ -91,5 +101,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-08T12:37:03"
+  "generated": "2026-10-09T12:24:35"
 }

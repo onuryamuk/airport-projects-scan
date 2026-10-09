@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-08T12:37:03+00:00",
+  "last_scan": "2026-10-09T12:24:35+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -116,7 +116,7 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 9,
+  "candidates_pending": 10,
   "new_signals_this_run": 1,
   "new_unmatched_this_run": 0,
   "projects_with_new_signals": [
