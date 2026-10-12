@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-12T14:07:11",
   "candidates": [
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -11,22 +12,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Picture of the week: Pittsburgh International Airport to trial four-legged Skild AI robots in Airside Terminal under xBridge programme",
-      "link": "https://www.internationalairportreview.com/picture-of-the-week-pittsburgh-international-airport-to-trial-four-legged-skild-ai-robots-in-airside-terminal-under-xbridge-programme/2136709.article",
+      "title": "Parliament reviews Heathrow expansion policy statement as support grows from unions, airlines and regional airports",
+      "link": "https://www.internationalairportreview.com/parliament-reviews-heathrow-expansion-policy-statement-as-support-grows-from-unions-airlines-and-regional-airports/2136717.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "NA-US-PIT-TMP"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
-      "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-CA-YUL-EXP"
+        "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -100,6 +91,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-11T11:56:10"
+  ]
 }
