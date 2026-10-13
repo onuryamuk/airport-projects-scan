@@ -1,5 +1,4 @@
 {
-  "generated": "2026-10-12T14:07:11",
   "candidates": [
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -12,12 +11,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Parliament reviews Heathrow expansion policy statement as support grows from unions, airlines and regional airports",
-      "link": "https://www.internationalairportreview.com/parliament-reviews-heathrow-expansion-policy-statement-as-support-grows-from-unions-airlines-and-regional-airports/2136717.article",
+      "title": "Bristol Airport solar arrays generate record renewable energy, up 20 per cent on 2025 levels",
+      "link": "https://www.internationalairportreview.com/bristol-airport-solar-arrays-generate-record-renewable-energy-up-20-per-cent-on-2025-levels/2136727.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "EU-GB-LHR-R3"
+        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -91,5 +90,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-13T13:19:37"
 }
