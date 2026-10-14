@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-10-13T13:19:37+00:00",
+  "last_scan": "2026-10-14T10:59:27+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -15,8 +15,8 @@
       "name": "International Airport Review (homepage)",
       "url": "https://www.internationalairportreview.com/",
       "kind": "html",
-      "status": "200",
-      "items": 33,
+      "status": "202",
+      "items": 0,
       "error": ""
     },
     {
@@ -116,12 +116,10 @@
       "error": ""
     }
   ],
-  "candidates_pending": 9,
-  "new_signals_this_run": 1,
+  "candidates_pending": 4,
+  "new_signals_this_run": 0,
   "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [
-    "AU-WA-PER-MP26"
-  ],
+  "projects_with_new_signals": [],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
