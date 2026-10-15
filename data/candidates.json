@@ -1,6 +1,46 @@
 {
   "candidates": [
     {
+      "title": "The Changi experience: Inside one of aviation’s most recognised brands",
+      "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
+      "link": "https://www.internationalairportreview.com/5-minutes-with-john-ackerman-ceo-of-los-angeles-international-airport/2136578.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-US-LAX-LAMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Redefining what it means to be an airport: Pittsburgh Airport CEO, Christina Cassotis",
+      "link": "https://www.internationalairportreview.com/redefining-what-it-means-to-be-an-airport-pittsburgh-airport-ceo-christina-cassotis/2136377.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-US-PIT-TMP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "AI in Action: Enhancing Ground Operations at Frankfurt Airport",
+      "link": "https://www.internationalairportreview.com/main-navigation/ai-in-action-enhancing-ground-operations-at-frankfurt-airport/529426.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Schiphol airport to get house in order with five, nine-year contracts",
       "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
       "published": "Tue, 06 Oct 2026 13:06:52 +0000",
@@ -41,5 +81,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-14T10:59:27"
+  "generated": "2026-10-15T10:41:11"
 }
