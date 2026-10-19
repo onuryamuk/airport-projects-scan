@@ -41,6 +41,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Passenger and cargo demand remain resilient at Singapore Changi",
+      "link": "https://airport-world.com/passenger-and-cargo-demand-remain-resilient-at-singapore-changi/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-and-cargo-demand-remain-resilient-at-singapore-changi",
+      "published": "Mon, 19 Oct 2026 07:59:01 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Perth Airport celebrates 30-year partnership with Delaware North",
       "link": "https://airport-world.com/perth-airport-celebrates-30-year-partnership-with-delaware-north/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-celebrates-30-year-partnership-with-delaware-north",
       "published": "Fri, 16 Oct 2026 11:34:28 +0000",
@@ -72,22 +82,30 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Pittsburgh International Airport to introduce dedicated TSA PreCheck Touchless ID lane",
-      "link": "https://www.futuretravelexperience.com/2026/10/pittsburgh-international-airport-to-introduce-dedicated-tsa-precheck-touchless-id-lane/",
-      "published": "Sun, 11 Oct 2026 09:58:24 +0000",
+      "title": "Changi Airports International unveils innovation-focused Airport Pavement Centre of Excellence",
+      "link": "https://www.futuretravelexperience.com/2026/10/changi-airports-international-unveils-innovation-focused-airport-pavement-centre-of-excellence/",
+      "published": "Sun, 18 Oct 2026 13:23:36 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "NA-US-PIT-TMP"
+        "AP-SG-SIN-T5"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Seattle-Tacoma plans major duty free expansion to enhance airport shopping experience",
-      "link": "https://www.futuretravelexperience.com/2026/10/seattle-tacoma-plans-major-duty-free-expansion-to-enhance-airport-shopping-experience/",
-      "published": "Sun, 11 Oct 2026 09:27:44 +0000",
+      "title": "VINCI Airports launches modernisation and expansion of Terminal 2 at Lyon-Saint Exupéry Airport",
+      "link": "https://www.futuretravelexperience.com/2026/10/vinci-airports-launches-modernisation-and-expansion-of-terminal-2-at-lyon-saint-exupery-airport/",
+      "published": "Sun, 18 Oct 2026 13:17:09 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
+      "title": "Austin-Bergstrom advances Journey With AUS expansion with Concourse M ground-breaking",
+      "link": "https://www.futuretravelexperience.com/2026/10/austin-bergstrom-advances-journey-with-aus-expansion-with-concourse-m-ground-breaking/",
+      "published": "Sun, 18 Oct 2026 13:00:11 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "NA-US-SEA-SCONC"
+        "NA-US-AUS-JOURNEY"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -102,5 +120,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-18T10:12:27"
+  "generated": "2026-10-19T11:48:15"
 }
