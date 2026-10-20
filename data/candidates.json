@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-20T10:47:08",
   "candidates": [
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -9,6 +10,14 @@
         "AP-SG-SIN-T5"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Melbourne Airport progresses design of $4.5 billion international terminal expansion after opening new pick-up zones",
+      "link": "https://www.internationalairportreview.com/melbourne-airport-progresses-design-of-45-billion-international-terminal-expansion-after-opening-new-pick-up-zones/2136786.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
       "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
@@ -41,6 +50,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Expanding route network to ensure busy winter at Frankfurt Airport",
+      "link": "https://airport-world.com/expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport",
+      "published": "Tue, 20 Oct 2026 08:50:35 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Passenger and cargo demand remain resilient at Singapore Changi",
       "link": "https://airport-world.com/passenger-and-cargo-demand-remain-resilient-at-singapore-changi/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-and-cargo-demand-remain-resilient-at-singapore-changi",
       "published": "Mon, 19 Oct 2026 07:59:01 +0000",
@@ -57,17 +76,6 @@
       "source": "Airport World",
       "matched_projects": [
         "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "New airport pavement initiative launched by CAG subsidiary",
-      "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
-      "published": "Thu, 15 Oct 2026 10:13:57 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "NA-EG-PROG-11",
-        "AP-SG-SIN-T5"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -108,17 +116,6 @@
         "NA-US-AUS-JOURNEY"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
-      "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
-      "published": "",
-      "source": "Heathrow Media Centre",
-      "matched_projects": [
-        "EU-GB-LHR-R3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-19T11:48:15"
+  ]
 }
