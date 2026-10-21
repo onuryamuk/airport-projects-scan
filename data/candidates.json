@@ -1,6 +1,36 @@
 {
-  "generated": "2026-10-20T10:47:08",
+  "generated": "2026-10-21T10:58:52",
   "candidates": [
+    {
+      "title": "Delaware North’s Perth Airport workforce grows from 30 to more than 320 in 30 years",
+      "link": "https://www.passengerterminaltoday.com/news/food-beverage/delaware-norths-perth-airport-workforce-grows-from-30-to-more-than-320-in-30-years.html",
+      "published": "Mon, 19 Oct 2026 15:57:57 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-WA-PER-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Changi Airports sets up APEX to tackle airport pavement challenges from heavier aircraft and weather",
+      "link": "https://www.passengerterminaltoday.com/news/sustainability/changi-airports-sets-up-apex-to-tackle-airport-pavement-challenges-from-heavier-aircraft-and-weather.html",
+      "published": "Fri, 16 Oct 2026 12:09:33 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Prague implements additional measures to help non-Schengen border checks",
+      "link": "https://www.passengerterminaltoday.com/news/check-in/prague-implements-additional-measures-to-help-non-schengen-border-checks.html",
+      "published": "Thu, 15 Oct 2026 15:14:01 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-CZ-PRG-T12"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
@@ -12,8 +42,8 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Melbourne Airport progresses design of $4.5 billion international terminal expansion after opening new pick-up zones",
-      "link": "https://www.internationalairportreview.com/melbourne-airport-progresses-design-of-45-billion-international-terminal-expansion-after-opening-new-pick-up-zones/2136786.article",
+      "title": "In-depth: Melbourne Airport progresses design of $4.5 billion international terminal expansion after opening new pick-up zones",
+      "link": "https://www.internationalairportreview.com/in-depth-melbourne-airport-progresses-design-of-45-billion-international-terminal-expansion-after-opening-new-pick-up-zones/2136786.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [],
@@ -50,6 +80,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Taking cues from theme parks",
+      "link": "https://airport-world.com/taking-cues-from-theme-parks/?utm_source=rss&utm_medium=rss&utm_campaign=taking-cues-from-theme-parks",
+      "published": "Wed, 21 Oct 2026 05:00:53 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-NSW-SYD-MP45"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Expanding route network to ensure busy winter at Frankfurt Airport",
       "link": "https://airport-world.com/expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport",
       "published": "Tue, 20 Oct 2026 08:50:35 +0000",
@@ -66,16 +106,6 @@
       "source": "Airport World",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Perth Airport celebrates 30-year partnership with Delaware North",
-      "link": "https://airport-world.com/perth-airport-celebrates-30-year-partnership-with-delaware-north/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-celebrates-30-year-partnership-with-delaware-north",
-      "published": "Fri, 16 Oct 2026 11:34:28 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
