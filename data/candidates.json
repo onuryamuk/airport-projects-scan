@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-21T10:58:52",
+  "generated": "2026-10-22T10:57:47",
   "candidates": [
     {
-      "title": "Delaware North’s Perth Airport workforce grows from 30 to more than 320 in 30 years",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/delaware-norths-perth-airport-workforce-grows-from-30-to-more-than-320-in-30-years.html",
-      "published": "Mon, 19 Oct 2026 15:57:57 +0000",
+      "title": "Perth Airport seeks hospitality and entertainment operators for new Runway Entertainment Precinct",
+      "link": "https://www.passengerterminaltoday.com/news/retail/perth-airport-seeks-hospitality-and-entertainment-operators-for-new-runway-entertainment-precinct.html",
+      "published": "Thu, 22 Oct 2026 10:49:25 +0000",
       "source": "Passenger Terminal Today",
       "matched_projects": [
         "AU-WA-PER-MP26"
@@ -12,22 +12,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Changi Airports sets up APEX to tackle airport pavement challenges from heavier aircraft and weather",
-      "link": "https://www.passengerterminaltoday.com/news/sustainability/changi-airports-sets-up-apex-to-tackle-airport-pavement-challenges-from-heavier-aircraft-and-weather.html",
-      "published": "Fri, 16 Oct 2026 12:09:33 +0000",
+      "title": "London Gatwick to take advertising estate in-house",
+      "link": "https://www.passengerterminaltoday.com/news/operations-news/london-gatwick-to-take-advertising-estate-in-house.html",
+      "published": "Wed, 21 Oct 2026 14:21:06 +0000",
       "source": "Passenger Terminal Today",
       "matched_projects": [
-        "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Prague implements additional measures to help non-Schengen border checks",
-      "link": "https://www.passengerterminaltoday.com/news/check-in/prague-implements-additional-measures-to-help-non-schengen-border-checks.html",
-      "published": "Thu, 15 Oct 2026 15:14:01 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-CZ-PRG-T12"
+        "EU-GB-LGW-NR"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -42,12 +32,14 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "In-depth: Melbourne Airport progresses design of $4.5 billion international terminal expansion after opening new pick-up zones",
-      "link": "https://www.internationalairportreview.com/in-depth-melbourne-airport-progresses-design-of-45-billion-international-terminal-expansion-after-opening-new-pick-up-zones/2136786.article",
+      "title": "Skyfields invites hospitality and entertainment operators to help shape 3.12-hectare precinct at Perth Airport",
+      "link": "https://www.internationalairportreview.com/skyfields-invites-hospitality-and-entertainment-operators-to-help-shape-312-hectare-precinct-at-perth-airport/2136803.article",
       "published": "",
       "source": "International Airport Review (homepage)",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+      "matched_projects": [
+        "AU-WA-PER-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
       "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
@@ -76,6 +68,26 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Lighting upgrade at MEM delivering substantial energy savings",
+      "link": "https://airport-world.com/lighting-upgrade-at-mem-delivering-substantial-energy-savings/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-upgrade-at-mem-delivering-substantial-energy-savings",
+      "published": "Thu, 22 Oct 2026 09:53:33 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "NA-US-SNSA-IVANPAH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Sneak preview of United’s new Terminal B North Concourse at IAH",
+      "link": "https://airport-world.com/sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah/?utm_source=rss&utm_medium=rss&utm_campaign=sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah",
+      "published": "Wed, 21 Oct 2026 17:32:16 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "NA-US-IAH-TB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
