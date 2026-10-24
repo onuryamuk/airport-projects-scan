@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-10-23T10:51:00+00:00",
+  "last_scan": "2026-10-24T10:05:46+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -116,10 +116,12 @@
       "error": ""
     }
   ],
-  "candidates_pending": 16,
-  "new_signals_this_run": 1,
+  "candidates_pending": 20,
+  "new_signals_this_run": 5,
   "new_unmatched_this_run": 0,
   "projects_with_new_signals": [
+    "EU-GB-LHR-R3",
+    "NA-US-PIT-TMP",
     "AU-NSW-WSI-OPEN"
   ],
   "stale_projects": [
