@@ -1,5 +1,16 @@
 {
+  "generated": "2026-10-25T10:31:04",
   "candidates": [
+    {
+      "title": "FEATURE: Athens International Airport on conversational AI and customer experience",
+      "link": "https://www.passengerterminaltoday.com/news/it-software/feature-athens-international-airport-on-conversational-ai-and-customer-experience.html",
+      "published": "Sat, 24 Oct 2026 15:10:55 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-GR-ATH-EXP"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Met Office to keep embedded meteorologists at Heathrow in five-year contract extension",
       "link": "https://www.passengerterminaltoday.com/news/operations-news/met-office-to-keep-embedded-meteorologists-at-heathrow-in-five-year-contract-extension.html",
@@ -198,6 +209,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-24T10:05:46"
+  ]
 }
