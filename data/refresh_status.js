@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-25T10:31:04+00:00",
+  "last_scan": "2026-10-26T12:03:50+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -16,7 +16,7 @@ window.AMI_REFRESH = {
       "url": "https://www.internationalairportreview.com/",
       "kind": "html",
       "status": "200",
-      "items": 30,
+      "items": 31,
       "error": ""
     },
     {
@@ -116,11 +116,13 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 21,
-  "new_signals_this_run": 1,
-  "new_unmatched_this_run": 0,
+  "candidates_pending": 24,
+  "new_signals_this_run": 5,
+  "new_unmatched_this_run": 1,
   "projects_with_new_signals": [
-    "EU-GR-ATH-EXP"
+    "EU-NL-AMS-SOUTH",
+    "AU-WA-PER-MP26",
+    "AU-NSW-WSI-OPEN"
   ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",

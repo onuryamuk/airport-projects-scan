@@ -1,6 +1,15 @@
 {
-  "generated": "2026-10-25T10:31:04",
   "candidates": [
+    {
+      "title": "NEW WEBINAR: Stop searching, start serving – PRM operations showcase from Amsterdam Airport",
+      "link": "https://www.passengerterminaltoday.com/news/accessibility/new-webinar-stop-searching-start-serving-prm-operations-showcase-from-amsterdam-airport.html",
+      "published": "Mon, 26 Oct 2026 10:42:02 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-NL-AMS-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "FEATURE: Athens International Airport on conversational AI and customer experience",
       "link": "https://www.passengerterminaltoday.com/news/it-software/feature-athens-international-airport-on-conversational-ai-and-customer-experience.html",
@@ -42,16 +51,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "London Gatwick to take advertising estate in-house",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/london-gatwick-to-take-advertising-estate-in-house.html",
-      "published": "Wed, 21 Oct 2026 14:21:06 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-GB-LGW-NR"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -62,22 +61,30 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Manchester Airport approves Terminal 3 departure lounge expansion of more than a third",
+      "link": "https://www.internationalairportreview.com/manchester-airport-approves-terminal-3-departure-lounge-expansion-of-more-than-a-third/2136838.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
+      "title": "Perth Airport reveals concept designs for new terminal with 22 contact gates and automated processing",
+      "link": "https://www.internationalairportreview.com/perth-airport-reveals-concept-designs-for-new-terminal-with-22-contact-gates-and-automated-processing/2136837.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AU-WA-PER-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Western Sydney International details accessibility and inclusion facilities built into greenfield terminal design",
       "link": "https://www.internationalairportreview.com/western-sydney-international-details-accessibility-and-inclusion-facilities-built-into-greenfield-terminal-design/2136828.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Picture of the week: Pittsburgh International Airport opens rare post-security outdoor terrace for passengers in new terminal",
-      "link": "https://www.internationalairportreview.com/picture-of-the-week-pittsburgh-international-airport-opens-rare-post-security-outdoor-terrace-for-passengers-in-new-terminal/2136822.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-PIT-TMP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -108,6 +115,27 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Take off for Western Sydney International Airport",
+      "link": "https://airport-world.com/take-off-for-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=take-off-for-western-sydney-international-airport",
+      "published": "Mon, 26 Oct 2026 10:13:22 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Perth Airport reveals updated designs for new terminal",
+      "link": "https://airport-world.com/perth-airport-reveals-new-concept-designs-for-new-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-reveals-new-concept-designs-for-new-terminal",
+      "published": "Mon, 26 Oct 2026 09:54:13 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN",
+        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -209,5 +237,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-26T12:03:50"
 }
