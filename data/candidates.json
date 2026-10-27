@@ -1,5 +1,26 @@
 {
+  "generated": "2026-10-27T11:23:30",
   "candidates": [
+    {
+      "title": "Perth Airport releases concept designs for new terminal",
+      "link": "https://www.passengerterminaltoday.com/news/terminal/perth-airport-releases-concept-designs-for-new-terminal.html",
+      "published": "Mon, 26 Oct 2026 12:57:48 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-WA-PER-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Western Sydney International airport debuts First Nations art installations across precinct",
+      "link": "https://www.passengerterminaltoday.com/news/displays-signage/western-sydney-international-airport-debuts-first-nations-art-installations-across-precinct.html",
+      "published": "Mon, 26 Oct 2026 12:26:28 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "NEW WEBINAR: Stop searching, start serving – PRM operations showcase from Amsterdam Airport",
       "link": "https://www.passengerterminaltoday.com/news/accessibility/new-webinar-stop-searching-start-serving-prm-operations-showcase-from-amsterdam-airport.html",
@@ -41,16 +62,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Perth Airport seeks hospitality and entertainment operators for new Runway Entertainment Precinct",
-      "link": "https://www.passengerterminaltoday.com/news/retail/perth-airport-seeks-hospitality-and-entertainment-operators-for-new-runway-entertainment-precinct.html",
-      "published": "Thu, 22 Oct 2026 10:49:25 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -61,30 +72,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Manchester Airport approves Terminal 3 departure lounge expansion of more than a third",
-      "link": "https://www.internationalairportreview.com/manchester-airport-approves-terminal-3-departure-lounge-expansion-of-more-than-a-third/2136838.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
-      "title": "Perth Airport reveals concept designs for new terminal with 22 contact gates and automated processing",
-      "link": "https://www.internationalairportreview.com/perth-airport-reveals-concept-designs-for-new-terminal-with-22-contact-gates-and-automated-processing/2136837.article",
+      "title": "UK regional airports back Heathrow third runway as RABA Group signs new memorandum of understanding",
+      "link": "https://www.internationalairportreview.com/uk-regional-airports-back-heathrow-third-runway-as-raba-group-signs-new-memorandum-of-understanding/2136853.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Western Sydney International details accessibility and inclusion facilities built into greenfield terminal design",
-      "link": "https://www.internationalairportreview.com/western-sydney-international-details-accessibility-and-inclusion-facilities-built-into-greenfield-terminal-design/2136828.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
+        "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -237,6 +230,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-26T12:03:50"
+  ]
 }
