@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T14:29:01",
+  "generated": "2026-11-03T13:26:00",
   "candidates": [
     {
       "title": "Perth Airport to move all Terminal 1 pickup and drop-off to new P1 hub",
@@ -88,6 +88,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Busy October of traffic growth for Copenhagen Airport",
+      "link": "https://airport-world.com/busy-october-of-traffic-growth-for-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=busy-october-of-traffic-growth-for-copenhagen-airport",
+      "published": "Tue, 03 Nov 2026 08:15:21 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DK-CPH-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
