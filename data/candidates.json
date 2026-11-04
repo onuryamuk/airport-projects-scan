@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T13:26:00",
+  "generated": "2026-11-04T13:37:18",
   "candidates": [
     {
       "title": "Perth Airport to move all Terminal 1 pickup and drop-off to new P1 hub",
@@ -32,32 +32,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Australia’s Western Sydney International welcomes first passengers",
-      "link": "https://www.passengerterminaltoday.com/news/airport/australias-western-sydney-international-welcomes-first-passengers.html",
-      "published": "Wed, 28 Oct 2026 11:01:11 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Bahrain awards Golden Licenses to four projects worth USD 3.89 billion, including aviation MRO ventures",
-      "link": "https://www.internationalairportreview.com/bahrain-awards-golden-licenses-to-four-projects-worth-usd-389-billion-including-aviation-mro-ventures/2136901.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-DFW-TF"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -88,6 +68,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Fraport Group’s global airport portfolio prove value in year to date",
+      "link": "https://airport-world.com/fraport-group-hails-robust-performance-in-year-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=fraport-group-hails-robust-performance-in-year-to-date",
+      "published": "Wed, 04 Nov 2026 12:07:00 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AP-IN-NMP2-OMDA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
