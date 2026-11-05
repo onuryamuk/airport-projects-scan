@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-04T13:37:18",
+  "generated": "2026-11-05T13:50:10",
   "candidates": [
+    {
+      "title": "VIDEO: DFW installs six prefabricated modules for Terminal F Skylink station",
+      "link": "https://www.passengerterminaltoday.com/news/construction-architecture/video-dfw-installs-six-prefabricated-modules-for-terminal-f-skylink-station.html",
+      "published": "Thu, 05 Nov 2026 11:44:30 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-DFW-TF"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Perth Airport to move all Terminal 1 pickup and drop-off to new P1 hub",
       "link": "https://www.passengerterminaltoday.com/news/operations-news/perth-airport-to-move-all-terminal-1-pickup-and-drop-off-to-new-p1-hub.html",
@@ -22,22 +32,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Toronto Pearson selects Veovo lidar passenger flow monitoring solution",
-      "link": "https://www.passengerterminaltoday.com/news/technology/toronto-pearson-selects-veovo-lidar-passenger-flow-monitoring-solution.html",
-      "published": "Wed, 28 Oct 2026 15:13:19 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-CA-YYZ-LIFT"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Noida International Airport tests emergency response with full-scale SAKSHAM 2026 crisis exercise involving multiple agencies",
+      "link": "https://www.internationalairportreview.com/noida-international-airport-tests-emergency-response-with-full-scale-saksham-2026-crisis-exercise-involving-multiple-agencies/2136906.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AP-IN-NIA-P1"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -126,16 +136,6 @@
       "source": "Global Construction Review",
       "matched_projects": [
         "EU-NL-AMS-SOUTH"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Los Angeles World Airports partners with local brands to transform its dining and retail offering at LAX",
-      "link": "https://www.futuretravelexperience.com/2026/11/los-angeles-world-airports-partners-with-local-brands-to-transform-its-dining-and-retail-offering-at-lax/",
-      "published": "Sun, 01 Nov 2026 15:20:25 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "NA-US-LAX-LAMP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
