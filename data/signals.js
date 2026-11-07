@@ -1,199 +1,49 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-11-06T13:35:04+00:00",
+  "generated": "2026-11-07T12:15:02+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
-    "NA-US-SNSA-IVANPAH": [
+    "EU-GB-LGW-NR": [
       {
-        "title": "Lighting upgrade at MEM delivering substantial energy savings",
-        "link": "https://airport-world.com/lighting-upgrade-at-mem-delivering-substantial-energy-savings/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-upgrade-at-mem-delivering-substantial-energy-savings",
-        "published": "Thu, 22 Oct 2026 09:53:33 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-22"
-      }
-    ],
-    "AP-SG-SIN-T5": [
-      {
-        "title": "DHL to open healthcare logistics center at Changi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
-        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
+        "title": "London Gatwick launches largest ever food and beverage tender",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
+        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
-        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "New airport pavement initiative launched by CAG subsidiary",
-        "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
-        "published": "Thu, 15 Oct 2026 10:13:57 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-16"
-      },
-      {
-        "title": "Passenger and cargo demand remain resilient at Singapore Changi",
-        "link": "https://airport-world.com/passenger-and-cargo-demand-remain-resilient-at-singapore-changi/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-and-cargo-demand-remain-resilient-at-singapore-changi",
-        "published": "Mon, 19 Oct 2026 07:59:01 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-19"
-      },
-      {
-        "title": "Changi Airports International unveils innovation-focused Airport Pavement Centre of Excellence",
-        "link": "https://www.futuretravelexperience.com/2026/10/changi-airports-international-unveils-innovation-focused-airport-pavement-centre-of-excellence/",
-        "published": "Sun, 18 Oct 2026 13:23:36 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-19"
-      },
-      {
-        "title": "Changi Airports sets up APEX to tackle airport pavement challenges from heavier aircraft and weather",
-        "link": "https://www.passengerterminaltoday.com/news/sustainability/changi-airports-sets-up-apex-to-tackle-airport-pavement-challenges-from-heavier-aircraft-and-weather.html",
-        "published": "Fri, 16 Oct 2026 12:09:33 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-21"
-      }
-    ],
-    "EU-IT-FCO-DEVPLAN": [
-      {
-        "title": "Electric bus fleet expanded by dnata at Rome Fiumicino",
-        "link": "https://airport-world.com/electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino/?utm_source=rss&utm_medium=rss&utm_campaign=electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino",
-        "published": "Fri, 30 Oct 2026 10:11:08 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-30"
-      }
-    ],
-    "NA-MX-MTY-OMA": [
-      {
-        "title": "Monterrey Airport prepares to open new domestic baggage claim hall with flight-level bag tracking",
-        "link": "https://www.internationalairportreview.com/monterrey-airport-prepares-to-open-new-domestic-baggage-claim-hall-with-flight-level-bag-tracking/2136862.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-28"
-      },
-      {
-        "title": "OMA to open five-carousel baggage claim hall at Monterrey International",
-        "link": "https://www.passengerterminaltoday.com/news/baggage/oma-to-open-five-carousel-baggage-claim-hall-at-monterrey-international.html",
-        "published": "Mon, 02 Nov 2026 09:09:31 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-11-02"
-      }
-    ],
-    "AU-QLD-BNE-MP26": [
-      {
-        "title": "Easy come, easy go at Brisbane Airport",
-        "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
-        "published": "Thu, 17 Sep 2026 09:33:47 +0000",
-        "source": "Airport World",
         "first_seen": "2026-09-17"
       },
       {
-        "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
-        "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
-        "published": "Thu, 17 Sep 2026 10:47:08 +0000",
-        "source": "Passenger Terminal Today",
+        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
+        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-18"
       },
       {
-        "title": "Brisbane Airport streamlines international departures with new 12-lane passport control",
-        "link": "https://www.futuretravelexperience.com/2026/09/brisbane-airport-streamlines-international-departures-with-new-12-lane-passport-control/",
-        "published": "Sat, 19 Sep 2026 18:07:19 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
+        "title": "Stewart Wingate named next chair of London Gatwick",
+        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
+        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-19"
       },
       {
-        "title": "Electric go-kart track next on agenda for Brisbane Airport",
-        "link": "https://airport-world.com/electric-go-kart-track-next-on-agenda-for-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=electric-go-kart-track-next-on-agenda-for-brisbane-airport",
-        "published": "Mon, 21 Sep 2026 08:09:34 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-21"
+        "title": "London Gatwick to take advertising estate in-house",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/london-gatwick-to-take-advertising-estate-in-house.html",
+        "published": "Wed, 21 Oct 2026 14:21:06 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-22"
       }
     ],
-    "AP-NZ-AKL-DJT": [
+    "AP-TH-DMK-P3": [
       {
-        "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
-        "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+        "link": "https://www.nationthailand.com/business/economy/40071616",
         "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-02"
+        "source": "The Nation Thailand - business",
+        "first_seen": "2026-09-28"
       }
     ],
-    "AU-NSW-WSI-OPEN": [
-      {
-        "title": "Uber to run exclusive pickup zone at Western Sydney International",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
-        "published": "Fri, 25 Sep 2026 10:09:35 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-25"
-      },
-      {
-        "title": "Uber gets green light to serve Sydney’s new international airport",
-        "link": "https://airport-world.com/uber-gets-green-light-to-serve-sydneys-new-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=uber-gets-green-light-to-serve-sydneys-new-international-airport",
-        "published": "Sat, 26 Sep 2026 10:22:12 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-26"
-      },
-      {
-        "title": "Western Sydney International launches shuttle bus service",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
-        "published": "Thu, 01 Oct 2026 14:11:55 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-02"
-      },
-      {
-        "title": "Western Sydney International Airport partners with Uber to deliver seamless passenger ground connections",
-        "link": "https://www.futuretravelexperience.com/2026/10/western-sydney-international-airport-partners-with-uber-to-deliver-seamless-passenger-ground-connections/",
-        "published": "Sun, 04 Oct 2026 13:46:40 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-05"
-      },
-      {
-        "title": "Catering to all at Western Sydney International Airport",
-        "link": "https://airport-world.com/catering-to-all-at-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=catering-to-all-at-western-sydney-international-airport",
-        "published": "Fri, 23 Oct 2026 10:10:34 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-23"
-      },
-      {
-        "title": "Western Sydney International details accessibility and inclusion facilities built into greenfield terminal design",
-        "link": "https://www.internationalairportreview.com/western-sydney-international-details-accessibility-and-inclusion-facilities-built-into-greenfield-terminal-design/2136828.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-24"
-      },
-      {
-        "title": "Take off for Western Sydney International Airport",
-        "link": "https://airport-world.com/take-off-for-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=take-off-for-western-sydney-international-airport",
-        "published": "Mon, 26 Oct 2026 10:13:22 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-26"
-      },
-      {
-        "title": "Perth Airport reveals updated designs for new terminal",
-        "link": "https://airport-world.com/perth-airport-reveals-new-concept-designs-for-new-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-reveals-new-concept-designs-for-new-terminal",
-        "published": "Mon, 26 Oct 2026 09:54:13 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-26"
-      },
-      {
-        "title": "Western Sydney International airport debuts First Nations art installations across precinct",
-        "link": "https://www.passengerterminaltoday.com/news/displays-signage/western-sydney-international-airport-debuts-first-nations-art-installations-across-precinct.html",
-        "published": "Mon, 26 Oct 2026 12:26:28 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-27"
-      },
-      {
-        "title": "Australia’s Western Sydney International welcomes first passengers",
-        "link": "https://www.passengerterminaltoday.com/news/airport/australias-western-sydney-international-welcomes-first-passengers.html",
-        "published": "Wed, 28 Oct 2026 11:01:11 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-28"
-      }
-    ],
-    "AP-TH-BKK-SOUTH": [
+    "AP-TH-BKK-EAST": [
       {
         "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
         "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
@@ -216,22 +66,13 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-30"
       }
     ],
-    "NA-EG-PROG-11": [
+    "NA-US-TPA-AIRSIDED": [
       {
-        "title": "New airport pavement initiative launched by CAG subsidiary",
-        "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
-        "published": "Thu, 15 Oct 2026 10:13:57 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-16"
-      }
-    ],
-    "AU-NSW-SYD-MP45": [
-      {
-        "title": "Taking cues from theme parks",
-        "link": "https://airport-world.com/taking-cues-from-theme-parks/?utm_source=rss&utm_medium=rss&utm_campaign=taking-cues-from-theme-parks",
-        "published": "Wed, 21 Oct 2026 05:00:53 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-21"
+        "title": "Part 2 – Unlocking the potential of Physical AI: Fraport, MWAA, ADR, MUC, Fraunhofer IML, ZRH and TPA on autonomous operations, smarter airports and the path to scale",
+        "link": "https://www.futuretravelexperience.com/2026/10/part-2-unlocking-the-potential-of-physical-ai-fraport-mwaa-adr-muc-fraunhofer-iml-zrh-and-tpa-on-autonomous-operations-smarter-airports-and-the-path-to-scale/",
+        "published": "Wed, 28 Oct 2026 19:42:35 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-29"
       }
     ],
     "EU-IE-DUB-INFRA": [
@@ -243,52 +84,34 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-10-05"
       }
     ],
-    "AP-IN-NMP2-OMDA": [
+    "AP-IN-NIA-P1": [
       {
-        "title": "Fraport Group’s global airport portfolio prove value in year to date",
-        "link": "https://airport-world.com/fraport-group-hails-robust-performance-in-year-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=fraport-group-hails-robust-performance-in-year-to-date",
-        "published": "Wed, 04 Nov 2026 12:07:00 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-11-04"
-      }
-    ],
-    "NA-US-IAH-TB": [
-      {
-        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
-        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
-        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
+        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
+        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
+        "published": "",
+        "source": "Indian Infrastructure - aviation",
+        "first_seen": "2026-09-23"
       },
       {
-        "title": "Sneak preview of United’s new Terminal B North Concourse at IAH",
-        "link": "https://airport-world.com/sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah/?utm_source=rss&utm_medium=rss&utm_campaign=sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah",
-        "published": "Wed, 21 Oct 2026 17:32:16 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-22"
-      },
-      {
-        "title": "United opens new concourse at George Bush Intercontinental Airport with enhanced passenger amenities",
-        "link": "https://www.futuretravelexperience.com/2026/10/united-opens-new-concourse-at-george-bush-intercontinental-airport-with-enhanced-passenger-amenities/",
-        "published": "Wed, 28 Oct 2026 19:17:30 +0000",
+        "title": "Delhi’s Noida International Airport – the digital commercial experience at the world’s newest capital city airport",
+        "link": "https://www.futuretravelexperience.com/2026/10/delhis-noida-international-airport-the-digital-commercial-experience-at-the-worlds-newest-capital-city-airport/",
+        "published": "Thu, 01 Oct 2026 08:00:21 +0000",
         "source": "Future Travel Experience",
-        "first_seen": "2026-10-29"
-      }
-    ],
-    "EU-CZ-PRG-T12": [
+        "first_seen": "2026-10-01"
+      },
       {
-        "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
-        "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
+        "title": "Noida International Airport and ePlane Company to develop Advanced Air Mobility infrastructure",
+        "link": "https://www.futuretravelexperience.com/2026/10/noida-international-airport-and-eplane-company-to-develop-advanced-air-mobility-infrastructure/",
+        "published": "Sun, 11 Oct 2026 08:28:42 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-11"
+      },
+      {
+        "title": "Noida International Airport tests emergency response with full-scale SAKSHAM 2026 crisis exercise involving multiple agencies",
+        "link": "https://www.internationalairportreview.com/noida-international-airport-tests-emergency-response-with-full-scale-saksham-2026-crisis-exercise-involving-multiple-agencies/2136906.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-06"
-      },
-      {
-        "title": "Prague implements additional measures to help non-Schengen border checks",
-        "link": "https://www.passengerterminaltoday.com/news/check-in/prague-implements-additional-measures-to-help-non-schengen-border-checks.html",
-        "published": "Thu, 15 Oct 2026 15:14:01 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-21"
+        "first_seen": "2026-11-05"
       }
     ],
     "AU-WA-PER-MP26": [
@@ -370,22 +193,357 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-11-02"
       }
     ],
-    "AP-TH-DMK-P3": [
+    "EU-IT-FCO-DEVPLAN": [
       {
-        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-        "link": "https://www.nationthailand.com/business/economy/40071616",
-        "published": "",
-        "source": "The Nation Thailand - business",
-        "first_seen": "2026-09-28"
+        "title": "Electric bus fleet expanded by dnata at Rome Fiumicino",
+        "link": "https://airport-world.com/electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino/?utm_source=rss&utm_medium=rss&utm_campaign=electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino",
+        "published": "Fri, 30 Oct 2026 10:11:08 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-30"
       }
     ],
-    "NA-US-TPA-AIRSIDED": [
+    "AP-NZ-AKL-DJT": [
+      {
+        "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
+        "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-02"
+      }
+    ],
+    "AU-QLD-BNE-MP26": [
+      {
+        "title": "Easy come, easy go at Brisbane Airport",
+        "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
+        "published": "Thu, 17 Sep 2026 09:33:47 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-17"
+      },
+      {
+        "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
+        "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
+        "published": "Thu, 17 Sep 2026 10:47:08 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-18"
+      },
+      {
+        "title": "Brisbane Airport streamlines international departures with new 12-lane passport control",
+        "link": "https://www.futuretravelexperience.com/2026/09/brisbane-airport-streamlines-international-departures-with-new-12-lane-passport-control/",
+        "published": "Sat, 19 Sep 2026 18:07:19 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      },
+      {
+        "title": "Electric go-kart track next on agenda for Brisbane Airport",
+        "link": "https://airport-world.com/electric-go-kart-track-next-on-agenda-for-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=electric-go-kart-track-next-on-agenda-for-brisbane-airport",
+        "published": "Mon, 21 Sep 2026 08:09:34 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-21"
+      }
+    ],
+    "NA-CA-YYZ-LIFT": [
+      {
+        "title": "Toronto Pearson passenger satisfaction climbs as public backs airport investment",
+        "link": "https://www.internationalairportreview.com/toronto-pearson-passenger-satisfaction-climbs-as-public-backs-airport-investment/2136517.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-21"
+      },
+      {
+        "title": "Toronto Pearson selects Veovo lidar passenger flow monitoring solution",
+        "link": "https://www.passengerterminaltoday.com/news/technology/toronto-pearson-selects-veovo-lidar-passenger-flow-monitoring-solution.html",
+        "published": "Wed, 28 Oct 2026 15:13:19 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-29"
+      }
+    ],
+    "AP-SG-SIN-T5": [
+      {
+        "title": "DHL to open healthcare logistics center at Changi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
+        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
+        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "New airport pavement initiative launched by CAG subsidiary",
+        "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
+        "published": "Thu, 15 Oct 2026 10:13:57 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-16"
+      },
+      {
+        "title": "Passenger and cargo demand remain resilient at Singapore Changi",
+        "link": "https://airport-world.com/passenger-and-cargo-demand-remain-resilient-at-singapore-changi/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-and-cargo-demand-remain-resilient-at-singapore-changi",
+        "published": "Mon, 19 Oct 2026 07:59:01 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-19"
+      },
+      {
+        "title": "Changi Airports International unveils innovation-focused Airport Pavement Centre of Excellence",
+        "link": "https://www.futuretravelexperience.com/2026/10/changi-airports-international-unveils-innovation-focused-airport-pavement-centre-of-excellence/",
+        "published": "Sun, 18 Oct 2026 13:23:36 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-19"
+      },
+      {
+        "title": "Changi Airports sets up APEX to tackle airport pavement challenges from heavier aircraft and weather",
+        "link": "https://www.passengerterminaltoday.com/news/sustainability/changi-airports-sets-up-apex-to-tackle-airport-pavement-challenges-from-heavier-aircraft-and-weather.html",
+        "published": "Fri, 16 Oct 2026 12:09:33 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-21"
+      }
+    ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
+        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
+    "NA-US-AUS-JOURNEY": [
+      {
+        "title": "Austin-Bergstrom advances Journey With AUS expansion with Concourse M ground-breaking",
+        "link": "https://www.futuretravelexperience.com/2026/10/austin-bergstrom-advances-journey-with-aus-expansion-with-concourse-m-ground-breaking/",
+        "published": "Sun, 18 Oct 2026 13:00:11 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-19"
+      }
+    ],
+    "AU-NSW-SYD-MP45": [
+      {
+        "title": "Taking cues from theme parks",
+        "link": "https://airport-world.com/taking-cues-from-theme-parks/?utm_source=rss&utm_medium=rss&utm_campaign=taking-cues-from-theme-parks",
+        "published": "Wed, 21 Oct 2026 05:00:53 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-21"
+      }
+    ],
+    "AP-TW-TPE-T3": [
+      {
+        "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
+        "published": "Thu, 01 Oct 2026 11:34:41 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-01"
+      }
+    ],
+    "EU-CH-ZRH-DOCKA": [
+      {
+        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
+        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-28"
+      },
       {
         "title": "Part 2 – Unlocking the potential of Physical AI: Fraport, MWAA, ADR, MUC, Fraunhofer IML, ZRH and TPA on autonomous operations, smarter airports and the path to scale",
         "link": "https://www.futuretravelexperience.com/2026/10/part-2-unlocking-the-potential-of-physical-ai-fraport-mwaa-adr-muc-fraunhofer-iml-zrh-and-tpa-on-autonomous-operations-smarter-airports-and-the-path-to-scale/",
         "published": "Wed, 28 Oct 2026 19:42:35 +0000",
         "source": "Future Travel Experience",
         "first_seen": "2026-10-29"
+      }
+    ],
+    "NA-US-IAH-TB": [
+      {
+        "title": "Enhancing the passenger experience at Houston’s Bush Intercontinental Airport",
+        "link": "https://airport-world.com/new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-facilities-to-enhance-passenger-experience-at-houstons-bush-intercontinental-airport",
+        "published": "Fri, 11 Sep 2026 10:00:32 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "Sneak preview of United’s new Terminal B North Concourse at IAH",
+        "link": "https://airport-world.com/sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah/?utm_source=rss&utm_medium=rss&utm_campaign=sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah",
+        "published": "Wed, 21 Oct 2026 17:32:16 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-22"
+      },
+      {
+        "title": "United opens new concourse at George Bush Intercontinental Airport with enhanced passenger amenities",
+        "link": "https://www.futuretravelexperience.com/2026/10/united-opens-new-concourse-at-george-bush-intercontinental-airport-with-enhanced-passenger-amenities/",
+        "published": "Wed, 28 Oct 2026 19:17:30 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-29"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-SA-JED-KAIA": [
+      {
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "NA-MX-MTY-OMA": [
+      {
+        "title": "Monterrey Airport prepares to open new domestic baggage claim hall with flight-level bag tracking",
+        "link": "https://www.internationalairportreview.com/monterrey-airport-prepares-to-open-new-domestic-baggage-claim-hall-with-flight-level-bag-tracking/2136862.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-28"
+      },
+      {
+        "title": "OMA to open five-carousel baggage claim hall at Monterrey International",
+        "link": "https://www.passengerterminaltoday.com/news/baggage/oma-to-open-five-carousel-baggage-claim-hall-at-monterrey-international.html",
+        "published": "Mon, 02 Nov 2026 09:09:31 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-11-02"
+      }
+    ],
+    "EU-NL-AMS-SOUTH": [
+      {
+        "title": "Schiphol airport to get house in order with five, nine-year contracts",
+        "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
+        "published": "Tue, 06 Oct 2026 13:06:52 +0000",
+        "source": "Global Construction Review",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "title": "NEW WEBINAR: Stop searching, start serving – PRM operations showcase from Amsterdam Airport",
+        "link": "https://www.passengerterminaltoday.com/news/accessibility/new-webinar-stop-searching-start-serving-prm-operations-showcase-from-amsterdam-airport.html",
+        "published": "Mon, 26 Oct 2026 10:42:02 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-26"
+      }
+    ],
+    "NA-EG-PROG-11": [
+      {
+        "title": "New airport pavement initiative launched by CAG subsidiary",
+        "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
+        "published": "Thu, 15 Oct 2026 10:13:57 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-16"
+      }
+    ],
+    "AU-NSW-WSI-OPEN": [
+      {
+        "title": "Uber to run exclusive pickup zone at Western Sydney International",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
+        "published": "Fri, 25 Sep 2026 10:09:35 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-25"
+      },
+      {
+        "title": "Uber gets green light to serve Sydney’s new international airport",
+        "link": "https://airport-world.com/uber-gets-green-light-to-serve-sydneys-new-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=uber-gets-green-light-to-serve-sydneys-new-international-airport",
+        "published": "Sat, 26 Sep 2026 10:22:12 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-26"
+      },
+      {
+        "title": "Western Sydney International launches shuttle bus service",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
+        "published": "Thu, 01 Oct 2026 14:11:55 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-02"
+      },
+      {
+        "title": "Western Sydney International Airport partners with Uber to deliver seamless passenger ground connections",
+        "link": "https://www.futuretravelexperience.com/2026/10/western-sydney-international-airport-partners-with-uber-to-deliver-seamless-passenger-ground-connections/",
+        "published": "Sun, 04 Oct 2026 13:46:40 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-05"
+      },
+      {
+        "title": "Catering to all at Western Sydney International Airport",
+        "link": "https://airport-world.com/catering-to-all-at-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=catering-to-all-at-western-sydney-international-airport",
+        "published": "Fri, 23 Oct 2026 10:10:34 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-23"
+      },
+      {
+        "title": "Western Sydney International details accessibility and inclusion facilities built into greenfield terminal design",
+        "link": "https://www.internationalairportreview.com/western-sydney-international-details-accessibility-and-inclusion-facilities-built-into-greenfield-terminal-design/2136828.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-24"
+      },
+      {
+        "title": "Take off for Western Sydney International Airport",
+        "link": "https://airport-world.com/take-off-for-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=take-off-for-western-sydney-international-airport",
+        "published": "Mon, 26 Oct 2026 10:13:22 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-26"
+      },
+      {
+        "title": "Perth Airport reveals updated designs for new terminal",
+        "link": "https://airport-world.com/perth-airport-reveals-new-concept-designs-for-new-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-reveals-new-concept-designs-for-new-terminal",
+        "published": "Mon, 26 Oct 2026 09:54:13 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-26"
+      },
+      {
+        "title": "Western Sydney International airport debuts First Nations art installations across precinct",
+        "link": "https://www.passengerterminaltoday.com/news/displays-signage/western-sydney-international-airport-debuts-first-nations-art-installations-across-precinct.html",
+        "published": "Mon, 26 Oct 2026 12:26:28 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-27"
+      },
+      {
+        "title": "Australia’s Western Sydney International welcomes first passengers",
+        "link": "https://www.passengerterminaltoday.com/news/airport/australias-western-sydney-international-welcomes-first-passengers.html",
+        "published": "Wed, 28 Oct 2026 11:01:11 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-28"
+      }
+    ],
+    "NA-US-JFK-T6": [
+      {
+        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
+        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to move into New York-JFK’s New Terminal One",
+        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
+        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
+        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "EU-GR-ATH-EXP": [
+      {
+        "title": "FEATURE: Athens International Airport on conversational AI and customer experience",
+        "link": "https://www.passengerterminaltoday.com/news/it-software/feature-athens-international-airport-on-conversational-ai-and-customer-experience.html",
+        "published": "Sat, 24 Oct 2026 15:10:55 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-10-25"
       }
     ],
     "EU-DK-CPH-T3": [
@@ -411,50 +569,7 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-11-03"
       }
     ],
-    "EU-NL-AMS-SOUTH": [
-      {
-        "title": "Schiphol airport to get house in order with five, nine-year contracts",
-        "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
-        "published": "Tue, 06 Oct 2026 13:06:52 +0000",
-        "source": "Global Construction Review",
-        "first_seen": "2026-10-07"
-      },
-      {
-        "title": "NEW WEBINAR: Stop searching, start serving – PRM operations showcase from Amsterdam Airport",
-        "link": "https://www.passengerterminaltoday.com/news/accessibility/new-webinar-stop-searching-start-serving-prm-operations-showcase-from-amsterdam-airport.html",
-        "published": "Mon, 26 Oct 2026 10:42:02 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-26"
-      }
-    ],
-    "EU-GR-ATH-EXP": [
-      {
-        "title": "FEATURE: Athens International Airport on conversational AI and customer experience",
-        "link": "https://www.passengerterminaltoday.com/news/it-software/feature-athens-international-airport-on-conversational-ai-and-customer-experience.html",
-        "published": "Sat, 24 Oct 2026 15:10:55 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-25"
-      }
-    ],
-    "NA-US-ORD-TAP": [
-      {
-        "title": "World’s busiest airports revealed in latest global rankings",
-        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
-        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
-        "source": "ACI World",
-        "first_seen": "2026-09-12"
-      }
-    ],
-    "AP-TW-TPE-T3": [
-      {
-        "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
-        "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
-        "published": "Thu, 01 Oct 2026 11:34:41 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-01"
-      }
-    ],
-    "AP-TH-BKK-EAST": [
+    "AP-TH-BKK-SOUTH": [
       {
         "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
         "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
@@ -477,54 +592,64 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-30"
       }
     ],
-    "ME-SA-JED-KAIA": [
+    "EU-GB-LHR-R3": [
       {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
+        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-CH-ZRH-DOCKA": [
-      {
-        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
-        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-28"
+        "first_seen": "2026-09-14"
       },
       {
-        "title": "Part 2 – Unlocking the potential of Physical AI: Fraport, MWAA, ADR, MUC, Fraunhofer IML, ZRH and TPA on autonomous operations, smarter airports and the path to scale",
-        "link": "https://www.futuretravelexperience.com/2026/10/part-2-unlocking-the-potential-of-physical-ai-fraport-mwaa-adr-muc-fraunhofer-iml-zrh-and-tpa-on-autonomous-operations-smarter-airports-and-the-path-to-scale/",
-        "published": "Wed, 28 Oct 2026 19:42:35 +0000",
+        "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
+        "published": "Sat, 19 Sep 2026 18:03:08 +0000",
         "source": "Future Travel Experience",
-        "first_seen": "2026-10-29"
-      }
-    ],
-    "NA-CA-YUL-EXP": [
-      {
-        "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
-        "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-18"
-      }
-    ],
-    "NA-CA-YYZ-LIFT": [
-      {
-        "title": "Toronto Pearson passenger satisfaction climbs as public backs airport investment",
-        "link": "https://www.internationalairportreview.com/toronto-pearson-passenger-satisfaction-climbs-as-public-backs-airport-investment/2136517.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-21"
+        "first_seen": "2026-09-20"
       },
       {
-        "title": "Toronto Pearson selects Veovo lidar passenger flow monitoring solution",
-        "link": "https://www.passengerterminaltoday.com/news/technology/toronto-pearson-selects-veovo-lidar-passenger-flow-monitoring-solution.html",
-        "published": "Wed, 28 Oct 2026 15:13:19 +0000",
+        "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
+        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
+        "published": "",
+        "source": "Heathrow Media Centre",
+        "first_seen": "2026-09-25"
+      },
+      {
+        "title": "Parliament reviews Heathrow expansion policy statement as support grows from unions, airlines and regional airports",
+        "link": "https://www.internationalairportreview.com/parliament-reviews-heathrow-expansion-policy-statement-as-support-grows-from-unions-airlines-and-regional-airports/2136717.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-12"
+      },
+      {
+        "title": "Met Office to keep embedded meteorologists at Heathrow in five-year contract extension",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/met-office-to-keep-embedded-meteorologists-at-heathrow-in-five-year-contract-extension.html",
+        "published": "Fri, 23 Oct 2026 14:40:03 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-29"
+        "first_seen": "2026-10-24"
+      },
+      {
+        "title": "heathrow:press-release Airports in every nation and region of the UK confirm their support for Heathrow expansion  23 October, 2026",
+        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26442",
+        "published": "",
+        "source": "Heathrow Media Centre",
+        "first_seen": "2026-10-24"
+      },
+      {
+        "title": "UK regional airports back Heathrow third runway as RABA Group signs new memorandum of understanding",
+        "link": "https://www.internationalairportreview.com/uk-regional-airports-back-heathrow-third-runway-as-raba-group-signs-new-memorandum-of-understanding/2136853.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-27"
+      }
+    ],
+    "NA-US-ORD-TAP": [
+      {
+        "title": "World’s busiest airports revealed in latest global rankings",
+        "link": "https://aci.aero/2026/04/14/worlds-busiest-airports-revealed-in-latest-global-rankings/",
+        "published": "Tue, 14 Apr 2026 11:35:28 +0000",
+        "source": "ACI World",
+        "first_seen": "2026-09-12"
       }
     ],
     "NA-US-LAX-LAMP": [
@@ -543,80 +668,27 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-11-02"
       }
     ],
-    "EU-GB-LGW-NR": [
+    "ME-QA-DOH-PHB": [
       {
-        "title": "London Gatwick launches largest ever food and beverage tender",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
-        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-17"
-      },
-      {
-        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
-        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
+        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
+        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-18"
+        "first_seen": "2026-09-14"
       },
       {
-        "title": "Stewart Wingate named next chair of London Gatwick",
-        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
-        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-19"
-      },
-      {
-        "title": "London Gatwick to take advertising estate in-house",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/london-gatwick-to-take-advertising-estate-in-house.html",
-        "published": "Wed, 21 Oct 2026 14:21:06 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-22"
-      }
-    ],
-    "NA-US-JFK-NTO": [
-      {
-        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
-        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
+        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
+        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-16"
       },
       {
-        "title": "Air France to move into New York-JFK’s New Terminal One",
-        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
-        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
-        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
+        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
+        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
         "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
-      }
-    ],
-    "NA-US-JFK-T6": [
-      {
-        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
-        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
-        "source": "Passenger Terminal Today",
         "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Air France to move into New York-JFK’s New Terminal One",
-        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
-        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
-        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
       }
     ],
     "NA-US-PIT-TMP": [
@@ -684,124 +756,54 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-10-24"
       }
     ],
-    "EU-GB-LHR-R3": [
+    "EU-CZ-PRG-T12": [
       {
-        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-14"
-      },
-      {
-        "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
-        "published": "Sat, 19 Sep 2026 18:03:08 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
-      },
-      {
-        "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
-        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
-        "published": "",
-        "source": "Heathrow Media Centre",
-        "first_seen": "2026-09-25"
-      },
-      {
-        "title": "Parliament reviews Heathrow expansion policy statement as support grows from unions, airlines and regional airports",
-        "link": "https://www.internationalairportreview.com/parliament-reviews-heathrow-expansion-policy-statement-as-support-grows-from-unions-airlines-and-regional-airports/2136717.article",
+        "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
+        "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-12"
+        "first_seen": "2026-10-06"
       },
       {
-        "title": "Met Office to keep embedded meteorologists at Heathrow in five-year contract extension",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/met-office-to-keep-embedded-meteorologists-at-heathrow-in-five-year-contract-extension.html",
-        "published": "Fri, 23 Oct 2026 14:40:03 +0000",
+        "title": "Prague implements additional measures to help non-Schengen border checks",
+        "link": "https://www.passengerterminaltoday.com/news/check-in/prague-implements-additional-measures-to-help-non-schengen-border-checks.html",
+        "published": "Thu, 15 Oct 2026 15:14:01 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-10-24"
-      },
-      {
-        "title": "heathrow:press-release Airports in every nation and region of the UK confirm their support for Heathrow expansion  23 October, 2026",
-        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26442",
-        "published": "",
-        "source": "Heathrow Media Centre",
-        "first_seen": "2026-10-24"
-      },
-      {
-        "title": "UK regional airports back Heathrow third runway as RABA Group signs new memorandum of understanding",
-        "link": "https://www.internationalairportreview.com/uk-regional-airports-back-heathrow-third-runway-as-raba-group-signs-new-memorandum-of-understanding/2136853.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-27"
+        "first_seen": "2026-10-21"
       }
     ],
-    "EU-DE-FRA-T3": [
+    "NA-CA-YUL-EXP": [
       {
-        "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
-        "link": "https://www.passengerterminaltoday.com/videos/video-how-frankfurt-airports-terminal-3-blends-art-and-retail-to-reshape-passenger-experience.html",
-        "published": "Wed, 09 Sep 2026 13:48:00 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
-        "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
+        "title": "YUL Montréal–Trudeau goes live with Veovo’s Airport Operations Platform",
+        "link": "https://www.internationalairportreview.com/digital-and-automation-hub/yul-montreal-trudeau-goes-live-with-veovos-airport-operations-platform/2136492.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-11"
-      },
+        "first_seen": "2026-09-18"
+      }
+    ],
+    "NA-US-SEA-SCONC": [
       {
-        "title": "Passenger numbers rise across Fraport’s global airport network",
-        "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
-        "published": "Fri, 11 Sep 2026 09:36:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "AI in Action: Enhancing Ground Operations at Frankfurt Airport",
-        "link": "https://www.internationalairportreview.com/main-navigation/ai-in-action-enhancing-ground-operations-at-frankfurt-airport/529426.article",
+        "title": "Hudson-led joint venture awarded three duty-free locations as part of Seattle-Tacoma Airport expansion",
+        "link": "https://www.internationalairportreview.com/hudson-led-joint-venture-awarded-three-duty-free-locations-as-part-of-seattle-tacoma-airport-expansion/2136679.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-15"
+        "first_seen": "2026-10-07"
       },
       {
-        "title": "Expanding route network to ensure busy winter at Frankfurt Airport",
-        "link": "https://airport-world.com/expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport",
-        "published": "Tue, 20 Oct 2026 08:50:35 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-10-20"
-      },
-      {
-        "title": "Lufthansa and Fraport unveil new innovation-focused ‘Gate of the Future’ at Frankfurt Airport",
-        "link": "https://www.futuretravelexperience.com/2026/10/lufthansa-and-fraport-unveil-new-innovation-focused-gate-of-the-future-at-frankfurt-airport/",
-        "published": "Wed, 28 Oct 2026 19:37:00 +0000",
+        "title": "Seattle-Tacoma plans major duty free expansion to enhance airport shopping experience",
+        "link": "https://www.futuretravelexperience.com/2026/10/seattle-tacoma-plans-major-duty-free-expansion-to-enhance-airport-shopping-experience/",
+        "published": "Sun, 11 Oct 2026 09:27:44 +0000",
         "source": "Future Travel Experience",
-        "first_seen": "2026-10-29"
+        "first_seen": "2026-10-11"
       }
     ],
-    "EU-LV-RIX-TERM": [
+    "NA-US-SNSA-IVANPAH": [
       {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "title": "Lighting upgrade at MEM delivering substantial energy savings",
+        "link": "https://airport-world.com/lighting-upgrade-at-mem-delivering-substantial-energy-savings/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-upgrade-at-mem-delivering-substantial-energy-savings",
+        "published": "Thu, 22 Oct 2026 09:53:33 +0000",
         "source": "Airport World",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
-        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
+        "first_seen": "2026-10-22"
       }
     ],
     "NA-US-DFW-TF": [
@@ -855,82 +857,87 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-11-05"
       }
     ],
-    "NA-US-SEA-SCONC": [
+    "NA-US-JFK-NTO": [
       {
-        "title": "Hudson-led joint venture awarded three duty-free locations as part of Seattle-Tacoma Airport expansion",
-        "link": "https://www.internationalairportreview.com/hudson-led-joint-venture-awarded-three-duty-free-locations-as-part-of-seattle-tacoma-airport-expansion/2136679.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-07"
-      },
-      {
-        "title": "Seattle-Tacoma plans major duty free expansion to enhance airport shopping experience",
-        "link": "https://www.futuretravelexperience.com/2026/10/seattle-tacoma-plans-major-duty-free-expansion-to-enhance-airport-shopping-experience/",
-        "published": "Sun, 11 Oct 2026 09:27:44 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-11"
-      }
-    ],
-    "NA-US-AUS-JOURNEY": [
-      {
-        "title": "Austin-Bergstrom advances Journey With AUS expansion with Concourse M ground-breaking",
-        "link": "https://www.futuretravelexperience.com/2026/10/austin-bergstrom-advances-journey-with-aus-expansion-with-concourse-m-ground-breaking/",
-        "published": "Sun, 18 Oct 2026 13:00:11 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-19"
-      }
-    ],
-    "AP-IN-NIA-P1": [
-      {
-        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
-        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
-        "published": "",
-        "source": "Indian Infrastructure - aviation",
-        "first_seen": "2026-09-23"
-      },
-      {
-        "title": "Delhi’s Noida International Airport – the digital commercial experience at the world’s newest capital city airport",
-        "link": "https://www.futuretravelexperience.com/2026/10/delhis-noida-international-airport-the-digital-commercial-experience-at-the-worlds-newest-capital-city-airport/",
-        "published": "Thu, 01 Oct 2026 08:00:21 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-01"
-      },
-      {
-        "title": "Noida International Airport and ePlane Company to develop Advanced Air Mobility infrastructure",
-        "link": "https://www.futuretravelexperience.com/2026/10/noida-international-airport-and-eplane-company-to-develop-advanced-air-mobility-infrastructure/",
-        "published": "Sun, 11 Oct 2026 08:28:42 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-11"
-      },
-      {
-        "title": "Noida International Airport tests emergency response with full-scale SAKSHAM 2026 crisis exercise involving multiple agencies",
-        "link": "https://www.internationalairportreview.com/noida-international-airport-tests-emergency-response-with-full-scale-saksham-2026-crisis-exercise-involving-multiple-agencies/2136906.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-11-05"
-      }
-    ],
-    "ME-QA-DOH-PHB": [
-      {
-        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
-        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-14"
-      },
-      {
-        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
-        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
+        "title": "Air France to open new lounge and relocate all JFK flights to New Terminal One",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/air-france-to-open-new-lounge-and-relocate-all-jfk-flights-to-new-terminal-one.html",
+        "published": "Tue, 15 Sep 2026 13:54:12 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-16"
       },
       {
-        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
-        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
-        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
-        "source": "Future Travel Experience",
+        "title": "Air France to move into New York-JFK’s New Terminal One",
+        "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
+        "published": "Tue, 15 Sep 2026 11:51:42 +0000",
+        "source": "Airport World",
         "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Air France to open largest international lounge at JFK’s New Terminal One for enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/09/air-france-to-open-largest-international-lounge-at-jfks-new-terminal-one-for-enhanced-cx/",
+        "published": "Sat, 19 Sep 2026 18:12:27 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      }
+    ],
+    "EU-DE-FRA-T3": [
+      {
+        "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
+        "link": "https://www.passengerterminaltoday.com/videos/video-how-frankfurt-airports-terminal-3-blends-art-and-retail-to-reshape-passenger-experience.html",
+        "published": "Wed, 09 Sep 2026 13:48:00 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
+        "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "Passenger numbers rise across Fraport’s global airport network",
+        "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
+        "published": "Fri, 11 Sep 2026 09:36:42 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "AI in Action: Enhancing Ground Operations at Frankfurt Airport",
+        "link": "https://www.internationalairportreview.com/main-navigation/ai-in-action-enhancing-ground-operations-at-frankfurt-airport/529426.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-15"
+      },
+      {
+        "title": "Expanding route network to ensure busy winter at Frankfurt Airport",
+        "link": "https://airport-world.com/expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport",
+        "published": "Tue, 20 Oct 2026 08:50:35 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-10-20"
+      },
+      {
+        "title": "Lufthansa and Fraport unveil new innovation-focused ‘Gate of the Future’ at Frankfurt Airport",
+        "link": "https://www.futuretravelexperience.com/2026/10/lufthansa-and-fraport-unveil-new-innovation-focused-gate-of-the-future-at-frankfurt-airport/",
+        "published": "Wed, 28 Oct 2026 19:37:00 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-29"
+      },
+      {
+        "title": "Frankfurt Airport launches first Diwali retail campaign",
+        "link": "https://www.passengerterminaltoday.com/news/retail/frankfurt-airport-launches-first-diwali-retail-campaign.html",
+        "published": "Fri, 06 Nov 2026 13:46:40 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-11-07"
+      }
+    ],
+    "AP-IN-NMP2-OMDA": [
+      {
+        "title": "Fraport Group’s global airport portfolio prove value in year to date",
+        "link": "https://airport-world.com/fraport-group-hails-robust-performance-in-year-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=fraport-group-hails-robust-performance-in-year-to-date",
+        "published": "Wed, 04 Nov 2026 12:07:00 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-11-04"
       }
     ]
   },

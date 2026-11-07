@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-06T13:35:04",
+  "generated": "2026-11-07T12:15:02",
   "candidates": [
+    {
+      "title": "Frankfurt Airport launches first Diwali retail campaign",
+      "link": "https://www.passengerterminaltoday.com/news/retail/frankfurt-airport-launches-first-diwali-retail-campaign.html",
+      "published": "Fri, 06 Nov 2026 13:46:40 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "VIDEO: DFW installs six prefabricated modules for Terminal F Skylink station",
       "link": "https://www.passengerterminaltoday.com/news/construction-architecture/video-dfw-installs-six-prefabricated-modules-for-terminal-f-skylink-station.html",
@@ -18,16 +28,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [
         "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "OMA to open five-carousel baggage claim hall at Monterrey International",
-      "link": "https://www.passengerterminaltoday.com/news/baggage/oma-to-open-five-carousel-baggage-claim-hall-at-monterrey-international.html",
-      "published": "Mon, 02 Nov 2026 09:09:31 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "NA-MX-MTY-OMA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
