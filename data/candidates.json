@@ -21,16 +21,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Perth Airport to move all Terminal 1 pickup and drop-off to new P1 hub",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/perth-airport-to-move-all-terminal-1-pickup-and-drop-off-to-new-p1-hub.html",
-      "published": "Mon, 02 Nov 2026 11:25:46 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -41,12 +31,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Noida International Airport tests emergency response with full-scale SAKSHAM 2026 crisis exercise involving multiple agencies",
-      "link": "https://www.internationalairportreview.com/noida-international-airport-tests-emergency-response-with-full-scale-saksham-2026-crisis-exercise-involving-multiple-agencies/2136906.article",
+      "title": "Lufthansa and Fraport open Gate A16 at Frankfurt Airport to test future gate concepts",
+      "link": "https://www.internationalairportreview.com/lufthansa-and-fraport-open-gate-a16-at-frankfurt-airport-to-test-future-gate-concepts/2136943.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "AP-IN-NIA-P1"
+        "EU-DE-FRA-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -101,22 +91,40 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Major changes to Terminal 1 access at Perth Airport",
-      "link": "https://airport-world.com/major-changes-to-terminal-1-access-at-perth-airport/?utm_source=rss&utm_medium=rss&utm_campaign=major-changes-to-terminal-1-access-at-perth-airport",
-      "published": "Mon, 02 Nov 2026 08:26:34 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "Schiphol airport to get house in order with five, nine-year contracts",
       "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
       "published": "Tue, 06 Oct 2026 13:06:52 +0000",
       "source": "Global Construction Review",
       "matched_projects": [
         "EU-NL-AMS-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Changi Airport brings Pokémon gaming, interactive displays and exclusive merchandise to travellers",
+      "link": "https://www.futuretravelexperience.com/2026/11/changi-airport-brings-pokemon-gaming-interactive-displays-and-exclusive-merchandise-to-travellers/",
+      "published": "Sun, 08 Nov 2026 15:51:00 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Manchester Airport accelerates Terminal 3 investment with major departure lounge expansion",
+      "link": "https://www.futuretravelexperience.com/2026/11/manchester-airport-accelerates-terminal-3-investment-with-major-departure-lounge-expansion/",
+      "published": "Sun, 08 Nov 2026 15:44:45 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
+      "title": "Sydney Airport and Plaza Premium Group to open new pay-per-use domestic lounge",
+      "link": "https://www.futuretravelexperience.com/2026/11/sydney-airport-and-plaza-premium-group-to-open-new-pay-per-use-domestic-lounge/",
+      "published": "Sun, 08 Nov 2026 15:22:07 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -131,5 +139,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-11-08T12:35:33"
+  "generated": "2026-11-09T14:53:08"
 }

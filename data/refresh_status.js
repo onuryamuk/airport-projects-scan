@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-08T12:35:33+00:00",
+  "last_scan": "2026-11-09T14:53:08+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -116,10 +116,14 @@ window.AMI_REFRESH = {
       "error": "Response status code does not indicate success: 404 (Not Found)."
     }
   ],
-  "candidates_pending": 13,
-  "new_signals_this_run": 0,
-  "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [],
+  "candidates_pending": 14,
+  "new_signals_this_run": 3,
+  "new_unmatched_this_run": 1,
+  "projects_with_new_signals": [
+    "EU-DE-FRA-T3",
+    "AP-SG-SIN-T5",
+    "AU-WA-PER-MP26"
+  ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
