@@ -1,5 +1,16 @@
 {
+  "generated": "2026-11-10T14:06:10",
   "candidates": [
+    {
+      "title": "Royal Schiphol Group seeks to raise Maastricht Aachen Airport stake to 80%",
+      "link": "https://www.passengerterminaltoday.com/news/operations-news/royal-schiphol-group-seeks-to-raise-maastricht-aachen-airport-stake-to-80.html",
+      "published": "Mon, 09 Nov 2026 16:31:57 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-NL-AMS-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Frankfurt Airport launches first Diwali retail campaign",
       "link": "https://www.passengerterminaltoday.com/news/retail/frankfurt-airport-launches-first-diwali-retail-campaign.html",
@@ -71,22 +82,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Fraport Group’s global airport portfolio prove value in year to date",
-      "link": "https://airport-world.com/fraport-group-hails-robust-performance-in-year-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=fraport-group-hails-robust-performance-in-year-to-date",
-      "published": "Wed, 04 Nov 2026 12:07:00 +0000",
+      "title": "Detroit Metro to open North Cell Phone Lot ahead of holiday travel season",
+      "link": "https://airport-world.com/detroit-metro-to-open-north-cell-phone-lot-ahead-of-holiday-travel-season/?utm_source=rss&utm_medium=rss&utm_campaign=detroit-metro-to-open-north-cell-phone-lot-ahead-of-holiday-travel-season",
+      "published": "Tue, 10 Nov 2026 09:03:00 +0000",
       "source": "Airport World",
       "matched_projects": [
-        "AP-IN-NMP2-OMDA"
+        "NA-US-SNSA-IVANPAH"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Busy October of traffic growth for Copenhagen Airport",
-      "link": "https://airport-world.com/busy-october-of-traffic-growth-for-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=busy-october-of-traffic-growth-for-copenhagen-airport",
-      "published": "Tue, 03 Nov 2026 08:15:21 +0000",
+      "title": "Concourse E unveiled at Washington Dulles International Airport",
+      "link": "https://airport-world.com/concourse-e-unveiled-at-washington-dulles-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=concourse-e-unveiled-at-washington-dulles-international-airport",
+      "published": "Mon, 09 Nov 2026 19:54:35 +0000",
       "source": "Airport World",
       "matched_projects": [
-        "EU-DK-CPH-T3"
+        "NA-US-IAH-TB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -138,6 +149,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-11-09T14:53:08"
+  ]
 }
