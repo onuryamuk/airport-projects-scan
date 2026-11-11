@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-10T14:06:10+00:00",
+  "last_scan": "2026-11-11T13:22:52+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -117,12 +117,11 @@ window.AMI_REFRESH = {
     }
   ],
   "candidates_pending": 15,
-  "new_signals_this_run": 3,
+  "new_signals_this_run": 2,
   "new_unmatched_this_run": 0,
   "projects_with_new_signals": [
-    "EU-NL-AMS-SOUTH",
-    "NA-US-SNSA-IVANPAH",
-    "NA-US-IAH-TB"
+    "AU-NSW-WSI-OPEN",
+    "AU-NSW-SYD-MP45"
   ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
