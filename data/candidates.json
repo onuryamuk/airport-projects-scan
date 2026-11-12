@@ -22,16 +22,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Frankfurt Airport launches first Diwali retail campaign",
-      "link": "https://www.passengerterminaltoday.com/news/retail/frankfurt-airport-launches-first-diwali-retail-campaign.html",
-      "published": "Fri, 06 Nov 2026 13:46:40 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -150,5 +140,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-11-11T13:22:52"
+  "generated": "2026-11-12T14:27:37"
 }
