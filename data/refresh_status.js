@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-12T14:27:37+00:00",
+  "last_scan": "2026-11-13T13:45:29+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -116,10 +116,14 @@ window.AMI_REFRESH = {
       "error": "Response status code does not indicate success: 404 (Not Found)."
     }
   ],
-  "candidates_pending": 14,
-  "new_signals_this_run": 0,
-  "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [],
+  "candidates_pending": 17,
+  "new_signals_this_run": 3,
+  "new_unmatched_this_run": 1,
+  "projects_with_new_signals": [
+    "NA-US-IAH-TB",
+    "AU-QLD-BNE-MP26",
+    "EU-DE-FRA-T3"
+  ],
   "stale_projects": [
     "EU-PL-CPK",
     "EU-ES-MAD-DORA3",
@@ -139,6 +143,10 @@ window.AMI_REFRESH = {
     "AP-VN-GBN-NEW",
     "AP-VN-PQC-EXP",
     "AP-PH-NMIA-P1",
+    "AP-TH-BKK-EAST",
+    "AP-TH-BKK-SOUTH",
+    "AP-TH-DMK-P3",
+    "AP-TH-REGIONAL-P2",
     "AP-IN-NIA-P1",
     "AP-IN-NMI-P2",
     "AP-IN-MAA2-PARANDUR",

@@ -1,5 +1,24 @@
 {
+  "generated": "2026-11-13T13:45:29",
   "candidates": [
+    {
+      "title": "FEATURE: New ACI Europe Tender Code asks airports to look beyond the highest bid",
+      "link": "https://www.passengerterminaltoday.com/features/feature-new-aci-europe-tender-code-asks-airports-to-look-beyond-the-highest-bid.html",
+      "published": "Fri, 13 Nov 2026 12:29:37 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
+      "title": "United Airlines add 14 gates at Washington Dulles International as Concourse E opens",
+      "link": "https://www.passengerterminaltoday.com/news/construction-architecture/united-airlines-add-14-gates-at-washington-dulles-international-as-concourse-e-opens.html",
+      "published": "Thu, 12 Nov 2026 14:30:19 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-IAH-TB"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "FEATURE: Comparing airport security and operational governance – Western Sydney (WSI) and Sydney (SYD) Airports",
       "link": "https://www.passengerterminaltoday.com/features/feature-comparing-airport-security-and-operational-governance-western-sydney-wsi-and-sydney-syd-airports.html",
@@ -72,6 +91,26 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "New retail outlets to open at Brisbane Airport",
+      "link": "https://airport-world.com/new-retail-outlets-set-to-open-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-retail-outlets-set-to-open-at-brisbane-airport",
+      "published": "Fri, 13 Nov 2026 09:31:01 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Cargo up, passenger traffic steady at Frankfurt Airport in October",
+      "link": "https://airport-world.com/cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october/?utm_source=rss&utm_medium=rss&utm_campaign=cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october",
+      "published": "Thu, 12 Nov 2026 16:14:42 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Detroit Metro to open North Cell Phone Lot ahead of holiday travel season",
       "link": "https://airport-world.com/detroit-metro-to-open-north-cell-phone-lot-ahead-of-holiday-travel-season/?utm_source=rss&utm_medium=rss&utm_campaign=detroit-metro-to-open-north-cell-phone-lot-ahead-of-holiday-travel-season",
       "published": "Tue, 10 Nov 2026 09:03:00 +0000",
@@ -88,16 +127,6 @@
       "source": "Airport World",
       "matched_projects": [
         "NA-US-IAH-TB"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Schiphol airport to get house in order with five, nine-year contracts",
-      "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
-      "published": "Tue, 06 Oct 2026 13:06:52 +0000",
-      "source": "Global Construction Review",
-      "matched_projects": [
-        "EU-NL-AMS-SOUTH"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -139,6 +168,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-11-12T14:27:37"
+  ]
 }
