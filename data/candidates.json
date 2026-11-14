@@ -1,5 +1,4 @@
 {
-  "generated": "2026-11-13T13:45:29",
   "candidates": [
     {
       "title": "FEATURE: New ACI Europe Tender Code asks airports to look beyond the highest bid",
@@ -27,16 +26,6 @@
       "matched_projects": [
         "AU-NSW-WSI-OPEN",
         "AU-NSW-SYD-MP45"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Royal Schiphol Group seeks to raise Maastricht Aachen Airport stake to 80%",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/royal-schiphol-group-seeks-to-raise-maastricht-aachen-airport-stake-to-80.html",
-      "published": "Mon, 09 Nov 2026 16:31:57 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-NL-AMS-SOUTH"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -168,5 +157,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-11-14T12:50:05"
 }
