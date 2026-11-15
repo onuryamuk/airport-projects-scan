@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-14T12:50:05+00:00",
+  "last_scan": "2026-11-15T13:16:22+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
