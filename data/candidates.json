@@ -1,6 +1,16 @@
 {
   "candidates": [
     {
+      "title": "Brisbane Airport adds more than a dozen retailers across both terminals",
+      "link": "https://www.passengerterminaltoday.com/news/retail/brisbane-airport-adds-more-than-a-dozen-retailers-across-both-terminals.html",
+      "published": "Mon, 16 Nov 2026 12:33:19 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "FEATURE: New ACI Europe Tender Code asks airports to look beyond the highest bid",
       "link": "https://www.passengerterminaltoday.com/features/feature-new-aci-europe-tender-code-asks-airports-to-look-beyond-the-highest-bid.html",
       "published": "Fri, 13 Nov 2026 12:29:37 +0000",
@@ -19,33 +29,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "FEATURE: Comparing airport security and operational governance – Western Sydney (WSI) and Sydney (SYD) Airports",
-      "link": "https://www.passengerterminaltoday.com/features/feature-comparing-airport-security-and-operational-governance-western-sydney-wsi-and-sydney-syd-airports.html",
-      "published": "Wed, 11 Nov 2026 11:10:57 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN",
-        "AU-NSW-SYD-MP45"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Lufthansa and Fraport open Gate A16 at Frankfurt Airport to test future gate concepts",
-      "link": "https://www.internationalairportreview.com/lufthansa-and-fraport-open-gate-a16-at-frankfurt-airport-to-test-future-gate-concepts/2136943.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -158,5 +147,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-11-15T13:16:22"
+  "generated": "2026-11-16T14:29:30"
 }
