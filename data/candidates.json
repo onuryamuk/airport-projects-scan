@@ -1,5 +1,16 @@
 {
+  "generated": "2026-11-17T15:20:39",
   "candidates": [
+    {
+      "title": "Perth Airport set to open new P1 transportation hub",
+      "link": "https://www.passengerterminaltoday.com/news/parking/perth-airport-set-to-open-new-p1-transportation-hub.html",
+      "published": "Tue, 17 Nov 2026 11:31:11 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-WA-PER-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Brisbane Airport adds more than a dozen retailers across both terminals",
       "link": "https://www.passengerterminaltoday.com/news/retail/brisbane-airport-adds-more-than-a-dozen-retailers-across-both-terminals.html",
@@ -146,6 +157,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-11-16T14:29:30"
+  ]
 }
