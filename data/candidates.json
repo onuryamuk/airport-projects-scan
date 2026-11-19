@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-18T14:55:27",
+  "generated": "2026-11-19T15:01:27",
   "candidates": [
+    {
+      "title": "Western Sydney International to open premium lounge as Singapore Airlines launches service",
+      "link": "https://www.passengerterminaltoday.com/news/lounge/western-sydney-international-to-open-premium-lounge-as-singapore-airlines-launches-service.html",
+      "published": "Thu, 19 Nov 2026 14:17:32 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AP-SG-SIN-T5",
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Perth Airport set to open new P1 transportation hub",
       "link": "https://www.passengerterminaltoday.com/news/parking/perth-airport-set-to-open-new-p1-transportation-hub.html",
@@ -32,12 +43,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Zurich Airport to trial four self-driving wheelchairs for passengers with reduced mobility over three years",
-      "link": "https://www.internationalairportreview.com/zurich-airport-to-trial-four-self-driving-wheelchairs-for-passengers-with-reduced-mobility-over-three-years/2137015.article",
+      "title": "European airport passenger traffic rises 3.2 per cent in September as winter capacity growth slows",
+      "link": "https://www.internationalairportreview.com/european-airport-passenger-traffic-rises-32-per-cent-in-september-as-winter-capacity-growth-slows/2137035.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
-        "EU-CH-ZRH-DOCKA"
+        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
