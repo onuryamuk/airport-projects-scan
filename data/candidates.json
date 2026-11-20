@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-19T15:01:27",
   "candidates": [
+    {
+      "title": "OTG adds Serafina, Mozz Lab and Starbucks to JFK Terminal 5",
+      "link": "https://www.passengerterminaltoday.com/news/food-beverage/otg-adds-serafina-mozz-lab-and-starbucks-to-jfk-terminal-5.html",
+      "published": "Fri, 20 Nov 2026 14:38:13 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "NA-US-JFK-T6",
+        "NA-US-JFK-NTO"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Western Sydney International to open premium lounge as Singapore Airlines launches service",
       "link": "https://www.passengerterminaltoday.com/news/lounge/western-sydney-international-to-open-premium-lounge-as-singapore-airlines-launches-service.html",
@@ -23,32 +33,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Brisbane Airport adds more than a dozen retailers across both terminals",
-      "link": "https://www.passengerterminaltoday.com/news/retail/brisbane-airport-adds-more-than-a-dozen-retailers-across-both-terminals.html",
-      "published": "Mon, 16 Nov 2026 12:33:19 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "European airport passenger traffic rises 3.2 per cent in September as winter capacity growth slows",
-      "link": "https://www.internationalairportreview.com/european-airport-passenger-traffic-rises-32-per-cent-in-september-as-winter-capacity-growth-slows/2137035.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -79,6 +69,26 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Western Sydney International Airport opens after Bechtel-delivered programme finishes seven months early",
+      "link": "https://www.globalconstructionreview.com/western-sydney-international-airport-opens-after-bechtel-delivered-programme-finishes-seven-months-early/",
+      "published": "Thu, 19 Nov 2026 16:36:03 +0000",
+      "source": "Global Construction Review",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Dubai Metro to extend to Al Maktoum International Airport City by 2031",
+      "link": "https://www.constructionweekonline.com/projects-tenders/dubai-metro-to-extend-to-al-maktoum-international-airport-city-by-2031",
+      "published": "Tue, 10 Nov 2026 12:02:55 +0000",
+      "source": "Construction Week Online",
+      "matched_projects": [
+        "ME-AE-DWC-EXP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -120,5 +130,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-11-20T14:44:22"
 }
