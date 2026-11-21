@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-20T14:44:22+00:00",
+  "last_scan": "2026-11-21T13:59:51+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (GitHub Actions)",
   "feeds": [
@@ -47,9 +47,9 @@ window.AMI_REFRESH = {
       "name": "Construction Week Online",
       "url": "https://www.constructionweekonline.com/feed",
       "kind": "rss",
-      "status": "200",
-      "items": 60,
-      "error": ""
+      "status": "ERROR",
+      "items": 0,
+      "error": "Response status code does not indicate success: 405 (Not Allowed)."
     },
     {
       "name": "Future Travel Experience",
@@ -116,15 +116,10 @@ window.AMI_REFRESH = {
       "error": "Response status code does not indicate success: 404 (Not Found)."
     }
   ],
-  "candidates_pending": 13,
-  "new_signals_this_run": 4,
+  "candidates_pending": 12,
+  "new_signals_this_run": 0,
   "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [
-    "NA-US-JFK-T6",
-    "NA-US-JFK-NTO",
-    "AU-NSW-WSI-OPEN",
-    "ME-AE-DWC-EXP"
-  ],
+  "projects_with_new_signals": [],
   "stale_projects": [
     "EU-PL-CPK",
     "EU-ES-MAD-DORA3",
