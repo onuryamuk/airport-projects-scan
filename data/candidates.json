@@ -1,5 +1,4 @@
 {
-  "generated": "2026-11-24T16:50:09",
   "candidates": [
     {
       "title": "OTG adds Serafina, Mozz Lab and Starbucks to JFK Terminal 5",
@@ -30,6 +29,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Dallas Fort Worth Airport ranked fastest large-hub airport for public Wi-Fi in U.S. study",
+      "link": "https://www.internationalairportreview.com/dallas-fort-worth-airport-ranked-fastest-large-hub-airport-for-public-wi-fi-in-us-study/2137082.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "NA-US-DFW-TF"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -121,5 +130,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-11-25T16:38:13"
 }
