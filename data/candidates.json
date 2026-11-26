@@ -33,16 +33,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Dallas Fort Worth Airport ranked fastest large-hub airport for public Wi-Fi in U.S. study",
-      "link": "https://www.internationalairportreview.com/dallas-fort-worth-airport-ranked-fastest-large-hub-airport-for-public-wi-fi-in-us-study/2137082.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "NA-US-DFW-TF"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "5 minutes with John Ackerman, CEO of Los Angeles International Airport",
       "link": "https://www.internationalairportreview.com/5-minutes-with-john-ackerman-ceo-of-los-angeles-international-airport/2136578.article",
       "published": "",
@@ -83,32 +73,34 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "ANA, Changi Airport Group, Singapore Airlines, Japan Airport Terminal, Cathay Pacific and AAHK recognised in FTE APAC Pioneer Awards 2026",
-      "link": "https://www.futuretravelexperience.com/2026/11/ana-changi-airport-group-singapore-airlines-japan-airport-terminal-cathay-pacific-and-aahk-recognised-in-fte-apac-pioneer-awards-2026/",
-      "published": "Wed, 18 Nov 2026 14:02:56 +0000",
+      "title": "United Airlines and MWAA unveil new concourse at Washington Dulles International Airport",
+      "link": "https://www.futuretravelexperience.com/2026/11/united-airlines-and-mwaa-unveil-new-concourse-at-washington-dulles-international-airport/",
+      "published": "Thu, 26 Nov 2026 11:51:17 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "AP-SG-SIN-T5"
+        "NA-US-IAH-TB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Changi Airport brings Pokémon gaming, interactive displays and exclusive merchandise to travellers",
-      "link": "https://www.futuretravelexperience.com/2026/11/changi-airport-brings-pokemon-gaming-interactive-displays-and-exclusive-merchandise-to-travellers/",
-      "published": "Sun, 08 Nov 2026 15:51:00 +0000",
+      "title": "Chicago O’Hare breaks ground on $917 million Concourse E project to add 24 gates and expand capacity",
+      "link": "https://www.futuretravelexperience.com/2026/11/chicago-ohare-breaks-ground-on-917-million-concourse-e-project-to-add-24-gates-and-expand-capacity/",
+      "published": "Thu, 26 Nov 2026 11:45:36 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [
-        "AP-SG-SIN-T5"
+        "NA-US-ORD-TAP"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Manchester Airport accelerates Terminal 3 investment with major departure lounge expansion",
-      "link": "https://www.futuretravelexperience.com/2026/11/manchester-airport-accelerates-terminal-3-investment-with-major-departure-lounge-expansion/",
-      "published": "Sun, 08 Nov 2026 15:44:45 +0000",
+      "title": "Western Sydney International Airport unveils premium passenger experience with new Rayleigh Lounge",
+      "link": "https://www.futuretravelexperience.com/2026/11/western-sydney-international-airport-unveils-premium-passenger-experience-with-new-rayleigh-lounge/",
+      "published": "Thu, 26 Nov 2026 11:41:00 +0000",
       "source": "Future Travel Experience",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
       "title": "ACI Airports Innovate 2026 kicks off in Barcelona with focus on AI, Net-Zero, and operational efficiency",
@@ -131,5 +123,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-11-25T16:38:13"
+  "generated": "2026-11-26T16:10:24"
 }
