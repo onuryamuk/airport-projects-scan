@@ -1,24 +1,13 @@
 {
+  "generated": "2026-11-27T15:57:11",
   "candidates": [
     {
-      "title": "OTG adds Serafina, Mozz Lab and Starbucks to JFK Terminal 5",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/otg-adds-serafina-mozz-lab-and-starbucks-to-jfk-terminal-5.html",
-      "published": "Fri, 20 Nov 2026 14:38:13 +0000",
+      "title": "YouGov poll for Heathrow finds 68% of surveyed MPs back third runway",
+      "link": "https://www.passengerterminaltoday.com/news/airport/yougov-poll-for-heathrow-finds-68-of-surveyed-mps-back-third-runway.html",
+      "published": "Fri, 27 Nov 2026 09:00:32 +0000",
       "source": "Passenger Terminal Today",
       "matched_projects": [
-        "NA-US-JFK-T6",
-        "NA-US-JFK-NTO"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Western Sydney International to open premium lounge as Singapore Airlines launches service",
-      "link": "https://www.passengerterminaltoday.com/news/lounge/western-sydney-international-to-open-premium-lounge-as-singapore-airlines-launches-service.html",
-      "published": "Thu, 19 Nov 2026 14:17:32 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AP-SG-SIN-T5",
-        "AU-NSW-WSI-OPEN"
+        "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -29,6 +18,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Port Polska awards JSK Architects contract to design new airport’s air traffic control tower",
+      "link": "https://www.internationalairportreview.com/port-polska-awards-jsk-architects-contract-to-design-new-airports-air-traffic-control-tower/2137123.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-CH-ZRH-DOCKA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -61,6 +60,14 @@
         "EU-DE-FRA-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Poland’s new airport shortlisted at World Architecture Festival",
+      "link": "https://www.globalconstructionreview.com/polands-new-airport-shortlisted-at-world-architecture-festival/",
+      "published": "Fri, 27 Nov 2026 12:50:16 +0000",
+      "source": "Global Construction Review",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
       "title": "Western Sydney International Airport opens after Bechtel-delivered programme finishes seven months early",
@@ -122,6 +129,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-11-26T16:10:24"
+  ]
 }
